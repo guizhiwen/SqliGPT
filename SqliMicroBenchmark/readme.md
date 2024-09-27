@@ -1,6 +1,6 @@
 README
 ================
-SQLI-LABS is a platform to learn SQLI 
+Our testing benchmark is primarily based on SQL i labs, and we also referenced five real-world CVEs from SQIRL's SQLiMicroBenchmark[1].
 Following labs are covered for GET and POST scenarios:
 
 1. Error Based Injections (Union Select)
@@ -17,18 +17,17 @@ Following labs are covered for GET and POST scenarios:
 	1.Referer based.
 	2.UserAgent based.
 	3.Cookie based.
-7. Second Order Injections
-8. Bypassing WAF
+7. Bypassing WAF
 	1. Bypassing Blacklist filters
 		Stripping comments
 		Stripping OR & AND
 		Stripping SPACES and COMMENTS
 		Stripping UNION & SELECT
 	2. Impidence mismatch
-9. Bypass addslashes()
-10. Bypassing mysql_real_escape_string. (under special conditions)
-11. Stacked SQL injections.
-12. Secondary channel extraction
+8. Bypass addslashes()
+9. Bypassing mysql_real_escape_string. (under special conditions)
+10. Stacked SQL injections.
+11. Real_world CVEs: CVE-2020-8637, CVE2020-8638, CVE-2020-8841, CVE-2023-30605, CVE-2023-24812
 
 ========================================================================================
 Install Instructions:
@@ -43,21 +42,6 @@ Install Instructions:
 7. Labs ready to be used, click on lesson number to open the lesson page.
 8. Enjoy the labs
 
-==========================================================================================
 
-Corrosponding walkthrough video tutorials and explainations can be found at:
-
-1. http://dummy2dummies.blogspot.com 
-2. http://www.securitytube.net/user/Audi
-3. https://www.facebook.com/sqlilabs
-
-you can also find the read along book at https://leanpub.com/SQLI-LABS, work is under process.
-
-==========================================================================================
-
-Challenge Section added:
-Less-54 to Less - 61 special challenge lessons added to repository for testing skills learnt from the other Lab lessons.
-
-==========================================================================================
-
+[1]https://github.com/ICL-ml4csec/SQIRL/tree/main/SQLiMicrobenchmark
 
