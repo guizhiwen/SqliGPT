@@ -1,3 +1,5 @@
+# We are conducting a comprehensive inspection and update...
+
 # SqliGPT
 
 Welcome to the SqliGPT repository! This project is dedicated to enhancing SQL Injection detection and prevention using advanced machine learning techniques. SqliGPT is a groundbreaking approach that leverages the power of GPT (Generative Pre-trained Transformer) models to understand and predict SQL injection patterns more accurately.
